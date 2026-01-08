@@ -1,69 +1,71 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Milano Unica - Exhibition Intelligence</title>
-    <script src="https://cdn.tailwindcss.com"></script>
+    <title>Milano Unica 42nd Edition · Exhibition Guide</title>
+    <meta name="description"
+        content="Hand-drawn style exhibition guide for Milano Unica 42nd Edition, Milan 2026. Curated textile brands.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Caveat:wght@400;700&family=Noto+Sans+SC:wght@400;500;700&family=Inter:wght@400;500;600&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="styles/main.css">
 </head>
-<body class="bg-gradient-to-br from-slate-900 via-purple-900 to-slate-900 min-h-screen text-white">
-    <div class="container mx-auto px-4 py-16">
-        <!-- Header -->
-        <header class="text-center mb-16">
-            <h1 class="text-6xl font-bold mb-4 bg-clip-text text-transparent bg-gradient-to-r from-purple-400 to-pink-600">
-                Milano Unica
-            </h1>
-            <p class="text-xl text-gray-300">Exhibition Intelligence Data & Analysis Tools</p>
-        </header>
 
-        <!-- Stats -->
-        <div class="grid md:grid-cols-3 gap-8 mb-16">
-            <div class="bg-white/10 backdrop-blur-lg rounded-2xl p-8 border border-white/20">
-                <div class="text-5xl font-bold text-purple-400 mb-2">695+</div>
-                <div class="text-gray-300">Files</div>
-            </div>
-            <div class="bg-white/10 backdrop-blur-lg rounded-2xl p-8 border border-white/20">
-                <div class="text-5xl font-bold text-pink-400 mb-2">500+</div>
-                <div class="text-gray-300">Exhibitors</div>
-            </div>
-            <div class="bg-white/10 backdrop-blur-lg rounded-2xl p-8 border border-white/20">
-                <div class="text-5xl font-bold text-blue-400 mb-2">20+</div>
-                <div class="text-gray-300">Halls</div>
-            </div>
+<body>
+    <!-- 纸张纹理背景 -->
+    <div class="paper-texture"></div>
+
+    <!-- 顶部工具栏 (语言 + 搜索) -->
+    <div class="top-bar">
+        <div class="search-container">
+            <input type="text" id="brandSearch" placeholder="搜索品牌或展位..." data-i18n-placeholder="search-placeholder">
+            <span class="search-icon">🔍</span>
         </div>
-
-        <!-- Features -->
-        <div class="grid md:grid-cols-2 gap-8 mb-16">
-            <div class="bg-white/5 backdrop-blur-lg rounded-2xl p-8 border border-white/10 hover:border-purple-500 transition">
-                <h3 class="text-2xl font-bold mb-4 text-purple-400">📊 Intelligence Reports</h3>
-                <p class="text-gray-300">Comprehensive analysis of exhibitors including company profiles, product categories, and market positioning.</p>
-            </div>
-            <div class="bg-white/5 backdrop-blur-lg rounded-2xl p-8 border border-white/10 hover:border-pink-500 transition">
-                <h3 class="text-2xl font-bold mb-4 text-pink-400">🗺️ Hall Maps</h3>
-                <p class="text-gray-300">Detailed hall layouts and exhibitor locations for efficient navigation and planning.</p>
-            </div>
-            <div class="bg-white/5 backdrop-blur-lg rounded-2xl p-8 border border-white/10 hover:border-blue-500 transition">
-                <h3 class="text-2xl font-bold mb-4 text-blue-400">🔍 Search Tools</h3>
-                <p class="text-gray-300">Advanced search and filtering capabilities to find specific exhibitors and products.</p>
-            </div>
-            <div class="bg-white/5 backdrop-blur-lg rounded-2xl p-8 border border-white/10 hover:border-green-500 transition">
-                <h3 class="text-2xl font-bold mb-4 text-green-400">📈 Data Analytics</h3>
-                <p class="text-gray-300">Python scripts for data extraction, enrichment, and visualization.</p>
-            </div>
+        <div class="lang-switch">
+            <button class="lang-btn active" data-lang="zh">中文</button>
+            <button class="lang-btn" data-lang="en">EN</button>
         </div>
-
-        <!-- CTA -->
-        <div class="text-center">
-            <a href="https://github.com/CentiMatrix/Milano_Unica" 
-               class="inline-block bg-gradient-to-r from-purple-500 to-pink-500 hover:from-purple-600 hover:to-pink-600 text-white font-bold py-4 px-8 rounded-full transition transform hover:scale-105">
-                View on GitHub →
-            </a>
-        </div>
-
-        <!-- Footer -->
-        <footer class="text-center mt-16 text-gray-400">
-            <p>© 2026 CentiMatrix | Milano Unica Intelligence Project</p>
-        </footer>
     </div>
+
+    <!-- 标题区 -->
+    <header class="hero">
+        <div class="hero-compass">🧭</div>
+        <h1 class="hero-title">
+            <span class="sketch-underline">Milano Unica 42</span>
+        </h1>
+        <p class="hero-subtitle" data-i18n="subtitle">手绘逛展指南 · Milano 2026</p>
+        <div class="hero-stats">
+            <span class="stat-badge">📍 <span data-i18n="brands-count">加载中...</span></span>
+            <span class="stat-badge">🏷️ <span data-i18n="categories-count">加载中...</span></span>
+            <span class="stat-badge">⭐ <span data-i18n="curated">精选推荐</span></span>
+        </div>
+    </header>
+
+    <!-- 快速导航 (Milano Unica 风格) -->
+    <nav class="category-nav">
+        <div class="nav-header">
+            <div class="nav-title">🗺️ <span data-i18n="quick-nav">逛展路线导航</span></div>
+            <p class="nav-subtitle" data-i18n="nav-subtitle">按展区快速定位品牌</p>
+        </div>
+        <div class="nav-links" id="navLinks"></div>
+    </nav>
+
+    <!-- 品牌展示区 -->
+    <main class="content" id="content">
+        <!-- 动态填充 -->
+    </main>
+
+    <!-- 页脚 -->
+    <footer class="footer">
+        <p>🖊️ Handcrafted with ❤️ for Milano Unica</p>
+        <p class="footer-note" data-i18n="footer-tip">逛展愉快，记得带好舒适的鞋子！</p>
+    </footer>
+
+    <script src="app.js"></script>
 </body>
+
 </html>

@@ -1,0 +1,2873 @@
+{
+  "IDE": {
+    "name": "Ideabiella",
+    "brands": [
+      {
+        "id": "alfred_brown",
+        "name": "ALFRED BROWN",
+        "stars": 5,
+        "tagline": "英伦精纺的性价比之王，皇家制服与大型零售商的幕后支柱。",
+        "stand": "MILLS Ideabiella A25",
+        "pros": [
+          {
+            "title": "规模效应带来的价格优势；深厚的制服供应背景确保了面料的“耐操度”；极佳的散客/现货服务体系。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "风格相对保守，主要集中在经典的条纹、格纹和素色，缺乏像意大利品牌那样的时尚前卫感。"
+          }
+        ],
+        "prices": [
+          "€15 - €45/m"
+        ],
+        "recommended": "稳健的基本盘。推荐用于品牌的常年款（Entry-level line）或对耐穿度有极高要求的商务差旅系列。",
+        "clients": "**Marks & Spencer**, **Brooks Brothers**, 世界各地的警察/消防/皇室勤务部门，以及大量主打“性价比英国料”的定制店。",
+        "product_type": "长期聚焦于高捻度（High Twist）技术以提升面料的自然弹力和抗皱性能。2026/27 研发重点在于“再生电力生产”与“可持续羊毛链条”，并引入了一系列更为轻盈的“婚庆/典礼”专用面料。",
+        "website": ""
+      },
+      {
+        "id": "albiate_1830",
+        "name": "Albiate 1830",
+        "stars": 5,
+        "tagline": "意大利高端休闲与丹宁布专家。",
+        "stand": "Shirt Avenue 20 A01",
+        "pros": [
+          {
+            "title": "依托 Albini 集团的世界级供应链；在提花丹宁与刺子绣 (Sashiko) 领域的独特工艺；极强的实验性色彩。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "强烈的牛仔标签可能掩盖其在轻柔亚麻混纺领域的成就；受全球牛仔市场波动影响较大。"
+          }
+        ],
+        "prices": [
+          "€25 - €65/m"
+        ],
+        "recommended": "提升休闲装的准入门槛。Albiate 让品牌能够以超越普通工装的品质溢价，吸引对质感有极端要求的现代都市客。",
+        "clients": "J.Crew (Ludlow/Wallace & Barnes), Ralph Lauren, Suitsupply, 以及先锋街头品牌。",
+        "product_type": "全球丹宁衬衫布的定义者，成功将双层织物与复杂提花引入工装领域。近期研发重点在于“可持续洗水效果”，通过特殊纱线排列在不使用强化学剂的情况下，实现复古的陈旧感。",
+        "website": ""
+      },
+      {
+        "id": "albini_1876",
+        "name": "Albini 1876",
+        "stars": 5,
+        "tagline": "全球意式正装衬衫布的基石。",
+        "stand": "Shirt Avenue 20 A03",
+        "pros": [
+          {
+            "title": "五代传承的垂直整合能力；每年推出 20,000+ 种新样设计；对 Giza 87 和 Sea Island 棉花的顶级掌控。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "巨大的生产规模可能在面对极小批量的高度个性化定制时，反应速度略慢于小型独立工坊。"
+          }
+        ],
+        "prices": [
+          "€28 - €75/m"
+        ],
+        "recommended": "提供无可挑战的品质基准。Albini 为品牌提供了全球公认的质量背书，是进入高端男装市场的入场券。",
+        "clients": "Hermès, Prada, Armani, Huntsman, 以及全球绝大多数高级定制衬衫商。",
+        "product_type": "高支棉面料的绝对王者，专注于“生物性演化”。通过与自有牧场和棉田的深度绑定，实现了从种子到面料的全链路可追溯。近期突破在于开发出在多次洗涤后依然能保持丝滑光泽的天然后整理技术。",
+        "website": ""
+      },
+      {
+        "id": "angelico",
+        "name": "Angelico",
+        "stars": 5,
+        "tagline": "比耶拉实用主义奢华的典范。",
+        "stand": "Ideabiella 20 D26",
+        "pros": [
+          {
+            "title": "完全垂直的生产体系（从梳毛到成品面料）；对比耶拉产区地脉价值的极致开发；在中高端价位段无出其右的良率。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "过于稳健的设计风格可能在面对追求极端先锋或艺术化叙事的品牌时，吸引力稍显不足。"
+          }
+        ],
+        "prices": [
+          "€24 - €48/m"
+        ],
+        "recommended": "实现毛利的稳定增长。Angelico 帮助品牌在不牺牲Made in Italy标签的前提下，有效控制采购成本并保证交期。",
+        "clients": "Hugo Boss, Corneliani, Brooks Brothers, 以及众多全球 executive wear 品牌。",
+        "product_type": "比耶拉产区垂直整合的优等生，擅长将复杂的混纺工艺（如毛/丝/麻）工业化。近期重点研发“可持续旅行概念”，面料具备天然的抗皱性与轻量化特性，高度契合后疫情时代的弹性办公需求。",
+        "website": ""
+      },
+      {
+        "id": "beste",
+        "name": "BESTE",
+        "stars": 5,
+        "tagline": "意式科技时装面料的先锋。",
+        "stand": "Ideabiella 20 E04",
+        "pros": [
+          {
+            "title": "跨界的研发能力（染整、纺织、成衣一体化）；在高性能功能性天然纤维领域的专利背书；极强的艺术触觉。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "由于定位偏向先锋与机能在，在纯正传统绅士装（Classic Tailoring）领域的覆盖面相对较窄。"
+          }
+        ],
+        "prices": [
+          "€25 - €75/m"
+        ],
+        "recommended": "将科技变成时尚。Beste 帮助品牌跳出传统的材质束缚，利用其高科技后整理技术创造出极具未来感的产品视觉。",
+        "clients": "Prada, Moncler, Burberry, Stone Island, 以及全球先锋时装品牌。",
+        "product_type": "全球纺织科技的“艺术实验室”，首创了多种天然纤维的纳米级涂层技术。近期研发重点在于“生物基高性能薄膜”，在保持面料天然质感的同时，赋予其超越合成材料的防水透气性能。",
+        "website": ""
+      },
+      {
+        "id": "bonotto",
+        "name": "BONOTTO",
+        "stars": 5,
+        "tagline": "纺织界的“慢工厂 (Slow Factory)”，Zegna 集团旗下的艺术实验室。",
+        "stand": "Ideabiella 20 C08",
+        "pros": [
+          {
+            "title": "无法被大规模工业化模仿的织造机理；作为 Zegna 集团成员的全球供应链保障；极高的品牌溢价能力。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "产能有限，交期波动较大，不适合大批量的基础款生产。"
+          }
+        ],
+        "prices": [
+          "€45 - €220/m"
+        ],
+        "recommended": "品牌灵魂的锚点。用于品牌最前卫的 Run-way 系列或具有高度收藏价值的限量条线。",
+        "clients": "**Chanel**, **Louis Vuitton**, **Saint Laurent**, **Dries Van Noten**, **Gucci** 以及寻求极速风格化的设计师品牌。",
+        "product_type": "长期精研“回收纤维与老式工艺”的融合，利用天然染料和非化学校准。2026/27 研发重点是通过对老式织机的数字化微调，实现在极厚重纹理下通过纤维间隙形成的“天然空气循环”。",
+        "website": ""
+      },
+      {
+        "id": "borghi_1819",
+        "name": "BORGHI 1819",
+        "stars": 5,
+        "tagline": "意式高阶针织梭织化的美学先锋。",
+        "stand": "Ideabiella 20 D20",
+        "pros": [
+          {
+            "title": "在轻量化支数与复杂混纺配比方面的深厚沉淀；与一线奢华品牌的长期联合研发历史；极高的感官审美一致性。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "相比于工业化大厂，在处理海量、多批次的中低端订单时可能不具备价格优势。"
+          }
+        ],
+        "prices": [
+          "€38 - €115/m"
+        ],
+        "recommended": "赋予成衣以空气感。Borghi 1819 帮助品牌通过物理克重的降低实现佩戴体感的飞跃，用触觉记忆锁死高端客群。",
+        "clients": "Loro Piana, Brunello Cucinelli, Ralph Lauren, 高端现代生活方式品牌。",
+        "product_type": "比耶拉产区的“轻量化实验室”，擅长通过对气流纺工艺的精密控制实现面料的蓬松与减重。近期研发致力于“混合智能弹性 (Hybrid Smart Stretch)”，即通过天然纤维的分子级排列实现完全不需要莱卡的物理拉伸。",
+        "website": ""
+      },
+      {
+        "id": "bower_roebuck",
+        "name": "BOWER ROEBUCK",
+        "stars": 5,
+        "tagline": "约克郡的艺术织造巅峰，顶级面料商 Scabal 等品牌的灵魂代工厂。",
+        "stand": "Ideabiella 20 A23",
+        "pros": [
+          {
+            "title": "跨越巅峰的支数控制能力；对珍稀纤维（Vicuna, Cashmere）的理解极其深厚；小批量、高精度的研发配合度。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "价格极其昂贵，交期相对较长（因工序复杂），仅适合小众顶奢市场。"
+          }
+        ],
+        "prices": [
+          "€80 - €250+/m"
+        ],
+        "recommended": "品牌皇冠上的明珠。用于提升品牌形象的 Capsule Collection 或最高端的 Bespoke 限量条线。",
+        "clients": "**Scabal (长期深度合作)**, **Tom Ford**, **Brioni**, 以及萨维尔街全球最顶尖的 Bespoke 名店。",
+        "product_type": "精研“物理光泽整理”而非化学涂层，使面料在自然光下产生宝石般的深度。2026/27 研发重点在于高支数羊毛与天然真丝的“反重力织造”，旨在实现同克重下更强的悬垂性和抗褶皱力。",
+        "website": ""
+      },
+      {
+        "id": "botto_giuseppe",
+        "name": "Botto Giuseppe",
+        "stars": 5,
+        "tagline": "可持续奢华纱线与面料的领路人。",
+        "stand": "Ideabiella 20 D10",
+        "pros": [
+          {
+            "title": "全球公认的可持续发展领袖；在超轻量纱线控制（Slowool）领域的霸主地位；跨国界的环保供应链垂直管理。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "高昂的可持续技术溢价可能超出大众溢价市场的预算；对环保原材料的依赖使得产能受自然因素波动较大。"
+          }
+        ],
+        "prices": [
+          "€45 - €130/m+"
+        ],
+        "recommended": "赋予品牌道德溢价。在 ESG 政策趋严的当下，Botto Giuseppe 是品牌进入高端可持续赛道的最佳技术合伙人。",
+        "clients": "Chanel, Dior, Max Mara, Hermès, 以及专注可持续的核心设计师品牌。",
+        "product_type": "全球毛纺工业的“绿色引擎”，首创了不含重金属的染色工艺和全生物降解的纱线结构。其 Slowool 专利通过低速纺织保留了纤维的天然弹力与触感。近期研发重点是通过纳米技术增强羊毛的疏水性。",
+        "website": ""
+      },
+      {
+        "id": "carnet_-_ratti",
+        "name": "CARNET - RATTI",
+        "stars": 5,
+        "tagline": "全球时装印花与丝绸的“现代调色盘”。",
+        "stand": "Ideabiella 20 A42",
+        "pros": [
+          {
+            "title": "Ratti 集团在全球丝绸与印彩领域的统治级背景；极其灵活的起订政策；极速的市场流行反应能力。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "由于是针对现货市场，大货的可持续供应周期（Continuity）可能视具体系列而定，需提前确认。"
+          }
+        ],
+        "prices": [
+          "€30 - €150/m"
+        ],
+        "recommended": "创意催化剂。最适合用于品牌每季度的胶囊系列或高级定制条线，能为系列提供瞬间的视觉记忆点。",
+        "clients": "**Dior**, **Gucci**, 全球顶级私人定制店, 以及二线奢侈成衣品牌。",
+        "product_type": "研发聚焦于“数字化印花革命”与“生态真丝链条”。2026/27 研发重点是利用新型环保墨水在极细真丝上实现“双面异色”印花效果，同时保持面料原有的轻盈手感。",
+        "website": ""
+      },
+      {
+        "id": "canepa",
+        "name": "Canepa",
+        "stars": 5,
+        "tagline": "全球丝绸纺织与专利环保的先驱。",
+        "stand": "Moda In Fabrics 12 D29",
+        "pros": [
+          {
+            "title": "超过 100 年的科莫 (Como) 丝绸传承；SAVEtheWATER® 等排他性环保技术；强大的提花 (Jacquard) 设计库。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "专利技术的溢价可能导致基础款的性价比在中端市场竞争力不足。"
+          }
+        ],
+        "prices": [
+          "€40 - €120/m+"
+        ],
+        "recommended": "解决品牌的环保焦虑。在奢侈品行业日益严苛的化学物质管控下，Canepa 是最安全、最具溢价能力的策略性供应商。",
+        "clients": "Gucci, Prada, Hermès, 全球顶尖领带与配饰品牌。",
+        "product_type": "全球丝绸技术的研发坐标，首创了使用天然成分替代真丝生产中重金属与有害物质的工艺。近期研发重点在于“丝绸的功能化”，如防泼水丝绸和高耐磨衬里丝绸。",
+        "website": ""
+      },
+      {
+        "id": "duca_visconti_di_modrone",
+        "name": "DUCA VISCONTI DI MODRONE",
+        "stars": 5,
+        "tagline": "全球灯芯绒与天鹅绒的“定海神针”。",
+        "stand": "Ideabiella 20 E08",
+        "pros": [
+          {
+            "title": "在全球绒面织物领域近 200 年的垄断级声誉；极其稳定的生产质量；丰富的色彩配库。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "品牌风格偏向保守和经典，对于寻求激进实验性面料的设计师来说可能略显传统。"
+          }
+        ],
+        "prices": [
+          "€40 - €95/m"
+        ],
+        "recommended": "经典的保障。作为品牌长青款（NOS）的高端支柱，是建立品牌面料质感信心的最佳选择。",
+        "clients": "**Ermenegildo Zegna**, **Ralph Lauren**, **Brooks Brothers**, **Prada**, 以及全球顶级的定制店铺。",
+        "product_type": "研发聚焦于“轻量化天鹅绒”与“抗倒毛（Anti-crush）”工艺。2026/27 研发重点是棉与高性能弹性纤维的隐形混纺，旨在解决传统天鹅绒在关节处易褶皱和走形的痛点。",
+        "website": ""
+      },
+      {
+        "id": "drago",
+        "name": "Drago",
+        "stars": 5,
+        "tagline": "技术流毛纺的现代领袖。",
+        "stand": "BIELLA Ideabiella C09",
+        "pros": [
+          {
+            "title": "完全垂直的纺纱制造体系；在超细羊毛工业稳定性方面的声誉；极具前瞻性的功能性面料开发库。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "品牌风格偏向现代与机能，可能在面对追求极度厚重、古典风格的萨维尔街传统客户时吸引力稍弱。"
+          }
+        ],
+        "prices": [
+          "€80 - €155/m+"
+        ],
+        "recommended": "定义现代绅士的自由感。Drago 帮助品牌逃离传统西装的束缚感，通过科技面料捕捉高增长的机能商务市场。",
+        "clients": "Ring Jacket, Brooks Brothers (Golden Fleece), Theory, 全球现代定制西装品牌。",
+        "product_type": "比耶拉产区的“科技流”代表，在不使用合成纤维的前提下，通过对羊毛纱线极高圈数的加捻实现自然弹力和抗皱。近期研发重点在于将超细羊毛与亚麻混纺后，依然保持极高的折皱复原力。",
+        "website": ""
+      },
+      {
+        "id": "ethomas",
+        "name": "E.THOMAS",
+        "stars": 5,
+        "tagline": "跨国奢华混纺的色彩魔术师。",
+        "stand": "Ideabiella 20 D08",
+        "pros": [
+          {
+            "title": "无与伦比的混纺花型美学；作为独立企业的极高服务灵活性；在高端夹克面料领域的行业口碑。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "相比于 Marzotto 等巨头集团，其在全球供应链的覆盖深度与大规模订单的吞吐能力受到一定限制。"
+          }
+        ],
+        "prices": [
+          "€45 - €95/m"
+        ],
+        "recommended": "贩卖不撞衫的品味。E.Thomas 帮助品牌为客户提供在人群中一眼被认出的高级审美，而非制式的工业西装。",
+        "clients": "Club Monaco, Hickey Freeman, Suitsupply, 以及全球范围内的高端 Bespoke 裁缝店。",
+        "product_type": "混纺领域的“色彩物理实验室”，擅长通过不同纤维的缩率差创造出独特的微皱肌理（Seersucker-like effects）。近期研发致力于将超细美利奴羊毛与极其轻薄的竹纤维结合。",
+        "website": ""
+      },
+      {
+        "id": "ego_(divisione_di_pontoglio)",
+        "name": "EGO (DIVISIONE DI PONTOGLIO)",
+        "stars": 5,
+        "tagline": "Pontoglio 旗下的创意先锋，天鹅绒的潮流解构者。",
+        "stand": "PONTOGLIO Ideabiella E11",
+        "pros": [
+          {
+            "title": "依托 Pontoglio 百年工艺的底层质量保证；领先行业的后处理研发实验室；对全球年轻人流行趋势的敏锐嗅觉。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "风格过于强烈，不适合追求传统经典或保守低调的商务品牌。"
+          }
+        ],
+        "prices": [
+          "€38 - €75/m"
+        ],
+        "recommended": "打破陈规的武器。最适合作为品牌本季的流量单品或用于打造极具个性的 Runway Show Piece。",
+        "clients": "**Off-White**, **Philipp Plein**, **Balenciaga**, 以及全球追求“视觉炸弹”效力的潮牌。",
+        "product_type": "研发聚焦于“复合涂层技术”与“绒面 3D 塑形”。2026/27 研发重点是利用植物基墨水在天鹅绒上实现具有“陶瓷质感（Ceramic Finish）”的特殊温感涂层，面料可根据体温产生微妙的色彩渐变。",
+        "website": ""
+      },
+      {
+        "id": "estethia_gb_conte",
+        "name": "ESTETHIA GB CONTE",
+        "stars": 5,
+        "tagline": "女装面料与快时尚精品的混血专家。",
+        "stand": "Ideabiella 20 B22",
+        "pros": [
+          {
+            "title": "Marzotto 集团的成本与物流优势；对女性时装色彩变化的极其敏锐；高性价比的“意产”背书。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "偏重时尚快节奏，在追求“传世、厚重、极致男装工艺”的传统西装市场中，面料心智相对偏薄。"
+          }
+        ],
+        "prices": [
+          "€18 - €45/m"
+        ],
+        "recommended": "加速时尚循环。Estethia 帮助品牌在不牺牲意式品质感的前提下，大幅提升产品设计的更新频率。",
+        "clients": "Zara (Premium/Studio), Mango, Max Mara (Weekend/Studio), 以及主流中高端女装品牌。",
+        "product_type": "时尚面料的“色彩实验室”，首创了多种将粘胶纤维与羊毛交织的新型纹理。近期研发重点在于“可再生潮流”，即利用回收羊毛制造出具备丝滑体感的高频穿着面料。",
+        "website": ""
+      },
+      {
+        "id": "ermenegildo_zegna",
+        "name": "Ermenegildo Zegna",
+        "stars": 5,
+        "tagline": "全球奢侈品供应链的终极支柱。",
+        "stand": "Ideabiella 20 C06",
+        "pros": [
+          {
+            "title": "垄断性的顶级原材料采购权（Vicuña, Superfine Wool）；极高的工业稳定性与快速响应能力；全球化的品牌背书效应。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "过强的品牌心智可能让其在作为贴牌面料商时，掩盖了客户品牌本身的设计多样性。"
+          }
+        ],
+        "prices": [
+          "€65 - €350/m+"
+        ],
+        "recommended": "为品牌锚定顶奢坐标。使用杰尼亚面料是全球公认的进入顶级男装俱乐部的快捷方式。",
+        "clients": "Zegna, Tom Ford, Gucci, Dunhill, 全球顶级西装定制品牌。",
+        "product_type": "全球面料研发的“灯塔”，首创了将 15milmil15 等超细羊毛工业化的能力。近期研发中心位于 Oasi Zegna，旨在将天然染色与生物工程面料量产化，力争实现 100% 的生产碳中和。",
+        "website": ""
+      },
+      {
+        "id": "flli_tallia_di_delfino",
+        "name": "F.LLI TALLIA DI DELFINO",
+        "stars": 5,
+        "tagline": "奢华定制界的“24K 艺术工坊”。",
+        "stand": "Ideabiella 20 B17",
+        "pros": [
+          {
+            "title": "无可比拟的极致奢华纤维配比技术；在顶级定制圈层的深厚心智占领；母公司 Marzotto 的强大财务与物流支持。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "极端奢华的属性使在大众成衣市场的“可接近性”较低。"
+          }
+        ],
+        "prices": [
+          "€45 - €195/m+ (黄金系列可达 €500+)"
+        ],
+        "recommended": "贩卖不计成本的追求。使用 Tallia di Delfino 能够让品牌迅速从普通奢侈品晋升为值得收藏的艺术品。",
+        "clients": "Azimut-Benetti, 萨维尔街裁缝, Kiton (部分限量项目), 全球高端私人定制会所。",
+        "product_type": "毛纺界的“高级珠宝师”，首创了将 24K 黄金纤维织入 13.5 微米羊毛的技术。近期研发重点在于“感官触达”，通过特殊的纳米级蒸汽处理工艺，使精纺西装面料具备如天鹅绒般的温润触感。",
+        "website": ""
+      },
+      {
+        "id": "faliero_sarti",
+        "name": "FALIERO SARTI",
+        "stars": 5,
+        "tagline": "意大利纺织美学的轻盈灵魂，顶奢配饰与仙女裙的幕后推手。",
+        "stand": "Ideabiella 20 A27",
+        "pros": [
+          {
+            "title": "在超细纤维与珍稀材质混纺领域的技术垄断；极其雅致、高级的意式色彩倾向；强烈的品牌感心智。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "面料普遍偏轻、偏软，不适合需要强力结构感（Structured tailoring）的正装品类。"
+          }
+        ],
+        "prices": [
+          "€40 - €160/m"
+        ],
+        "recommended": "柔性的象征。最适合品牌作为轻薄夏季系列、晚宴装或者高价值配饰条线的核心支撑。",
+        "clients": "**Chanel**, **Armani**, **The Row**, **Ann Demeulemeester**, 以及寻求极致垂感与空灵感的一线时装品牌。",
+        "product_type": "研发聚焦于“空气感织造”与“纳米级天然纤维软化”。2026/27 研发重点是利用植物基提取物对面料进行后处理，使织物在保持极致轻薄的同时，具备自发的热能平衡功能。",
+        "website": ""
+      },
+      {
+        "id": "fernmoor",
+        "name": "FERNMOOR",
+        "stars": 5,
+        "tagline": "现代功能性羊毛的英国探索者。",
+        "stand": "Ideabiella 20 A23",
+        "pros": [
+          {
+            "title": "在保证英伦骨架的同时极致追求功能化；价格极具竞争力，适合作为品牌的功能性补充条线。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "品牌历史积淀感不如 Joshua Ellis 等深厚，设计风格偏向工业设计而非艺术创作。"
+          }
+        ],
+        "prices": [
+          "€20 - €48/m"
+        ],
+        "recommended": "解决问题的伴侣。推荐用于品牌的Tech-Tailoring系列或永久不皱（Permanent crease）特殊企划。",
+        "clients": "这一级次的跨国成衣精品品牌、主打“商务旅行（Traveler suit）”系列的快时尚高端线。",
+        "product_type": "长期精研“超高捻度纱线（High Twist）”与环保型 DWR 处理。2026/27 研发重点是通过改变织物背面的物理结构，实现面料与人体之间的“气流循环层”，从而显著提升夏季西装的凉感效率。",
+        "website": ""
+      },
+      {
+        "id": "gmf_marzotto",
+        "name": "GMF MARZOTTO",
+        "stars": 5,
+        "tagline": "全球意式正装的工业中枢。",
+        "stand": "Ideabiella 20 B26",
+        "pros": [
+          {
+            "title": "全球最强大的交付能力；极高的标准化程度；Marzotto 品牌的品牌溢价背书。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "为了追求极大的工业一致性，面料有时会显得过于稳健，在需要极强实验艺术性或极小众手工艺的市场表现较弱。"
+          }
+        ],
+        "prices": [
+          "€20 - €48/m"
+        ],
+        "recommended": "稳固业务的基本盘。GMF 是品牌建立常青款（Seasonless/Essentials）系列最坚实的供应链基石。",
+        "clients": "Massimo Dutti, Ted Baker, Banana Republic, Reiss, 以及全球主流精品商务品牌。",
+        "product_type": "工业纺织的“标准制定者”，致力于高性能羊毛加工技术的普适化。近期研发重点在于“数字化供应链透明度”，让品牌能够通过面料标签追溯从牧场到成卷的每一道环保足迹。",
+        "website": ""
+      },
+      {
+        "id": "gruppo_dondi",
+        "name": "GRUPPO DONDI",
+        "stars": 5,
+        "tagline": "全球高级时装针织面料的奠基者。",
+        "stand": "Ideabiella 20 C02",
+        "pros": [
+          {
+            "title": "近 50 年与全球大牌时装屋共创的顶级设计心智；独步全球的高支数针织整理技术；极强的艺术触觉与跨界表现。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "较高的价格与技术门槛使其不适合对成本极其敏感的快时尚品牌。"
+          }
+        ],
+        "prices": [
+          "€45 - €185/m+"
+        ],
+        "recommended": "打破穿着的偏见。Dondi 让品牌能够告诉客户：针织不仅是休闲，针织也可以是隆重与永恒的化身。",
+        "clients": "Chanel, YSL, Giorgio Armani, Gucci, Max Mara, 全球顶级高端成衣时装屋。",
+        "product_type": "针织界的“结构动力学中心”，首创了将真丝与极其细碎的金属丝混纺至针织面料的技术。近期研发重点在于“多维支撑系统”，使轻薄针织物在不增加厚度的前提下，具备如建筑般坚挺的造型力。",
+        "website": ""
+      },
+      {
+        "id": "guabello",
+        "name": "GUABELLO",
+        "stars": 5,
+        "tagline": "现代理性与意式传统结合的工业巅峰。",
+        "stand": "Ideabiella 20 B21",
+        "pros": [
+          {
+            "title": "Marzotto 集团强大的全球供应保障；K-easy 专利带来的独特针织感梭织面料体验；极高的标准化程度。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "强大的工业属性有时会使其在追求极致“纯手工感”和“古法织造”的窄众定制市场中，显得过于理性。"
+          }
+        ],
+        "prices": [
+          "€28 - €65/m"
+        ],
+        "recommended": "降低穿衣服的门槛。Guabello 帮助品牌向客户通过面料本身解决商务出差、日常打理的痛点，用科技创造溢价。",
+        "clients": "全球主流奢华男装品牌，大型高级制服项目，以及高端成衣连锁。",
+        "product_type": "比耶拉产区的“性能标杆”，首创了不含弹性纤维的 360° 全方位机械弹力面料。近期研发重点在于“热调节智能纤维”，通过羊毛结构的物理改造，实现面料对人体微环境温度的动态调节。",
+        "website": ""
+      },
+      {
+        "id": "harris_tweed_hebrides",
+        "name": "HARRIS TWEED HEBRIDES",
+        "stars": 5,
+        "tagline": "盖尔斯语文明的织造传奇，全球公认的唯一受议会法令保护的“法定遗产面料”。",
+        "stand": "Ideabiella 20 B24",
+        "pros": [
+          {
+            "title": "全球唯一的法定原产地保护 (ORB Label)；极其深厚的设计师背书；极其耐穿，越旧越有质感。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "质感粗犷，对皮肤敏感者可能存在刺痒感；手工作业导致产量有限，无法满足快时尚级别的海量订单。"
+          }
+        ],
+        "prices": [
+          "€45 - €110/m"
+        ],
+        "recommended": "文化附加值。用于品牌的 Heritage 系列，通过向客户讲述海岛织机的故事，突破面料本身的物理价值。",
+        "clients": "**Chanel**, **Ralph Lauren**, **Vivienne Westwood**, **Erdem**, **Nike (限量联名)**, **Ermenegildo Zegna (大衣条线)**。",
+        "product_type": "近期致力于提升哈里斯呢的水洗处理与手感柔软度，并引入了一系列更为大胆的现代色彩组合。2026/27 研发重点在于“PGI 保护地位”的全球法律保护，以及与高端运动品牌的跨界混纺研发（如羊毛与技术纤维的平衡）。",
+        "website": ""
+      },
+      {
+        "id": "jackytex",
+        "name": "JACKYTEX",
+        "stars": 5,
+        "tagline": "普拉托针织界的“工业 4.0 领航者”。",
+        "stand": "Ideabiella 20 A29",
+        "pros": [
+          {
+            "title": "全球顶尖的智能化生产体系；在高端针织领域极其稳固的市场口碑；对复杂几何图案的处理能力。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "强项在于科技感与数字化。在追求那种“纯粹手工、粗糙天然感”的高端定制市场中，其过于精准的工业美学可能稍显冷峻。"
+          }
+        ],
+        "prices": [
+          "€35 - €95/m+"
+        ],
+        "recommended": "定义的次世代针织。Jackytex 帮助品牌赋予传统的针织品类以高级时装的廓形感，极大地提升了产品的溢价深度。",
+        "clients": "Prada (Linea Rossa series), Louis Vuitton, Moncler, 以及全球范围内需要“科技优雅”叙事的先锋品牌。",
+        "product_type": "针织界的“算法专家”，首创了利用大数据预测纤维收缩率并实时反馈至圆机张力器的系统。近期研发聚焦于“感官反馈面料”，能通过物理纹理的细微调节模拟不同的触觉反馈。",
+        "website": ""
+      },
+      {
+        "id": "john_foster_1819",
+        "name": "JOHN FOSTER 1819",
+        "stars": 5,
+        "tagline": "约克郡精纺与马海毛的活化石。",
+        "stand": "Ideabiella 20 D11",
+        "pros": [
+          {
+            "title": "近两百年的品牌历史积淀；马海毛领域的权威地位；作为 SIL Holdings 成员，拥有强大的供应链垂直整合能力。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "品牌风格极其经典正统，在“极客/街头”时尚方向的跨界尝试相对较少。"
+          }
+        ],
+        "prices": [
+          "€35 - €130/m"
+        ],
+        "recommended": "信任的基石。最适合品牌作为黄金标配 (Gold Standard)的商务西装与晚礼服（Tuxedo）条线。",
+        "clients": "全球顶尖的高级定制裁缝（Bespoke Tailors）、一线奢侈品牌男装线（如 **Prada** 等品牌的高端常青款背书）。",
+        "product_type": "长期锁定于“天然纤维功能化”，即在不添加化学助剂的前提下提高精纺羊毛的抗皱与透气性。2026/27 研发重点是利用马海毛的天然韧性与丝绸结合，创造出具有物理凉感的超轻量化夏季正装面料。",
+        "website": ""
+      },
+      {
+        "id": "joseph_h_clissold",
+        "name": "JOSEPH H. CLISSOLD",
+        "stars": 5,
+        "tagline": "英伦精纺的“制式化”专家，大型品牌与企业定制的高可靠基石。",
+        "stand": "SON Ideabiella C17",
+        "pros": [
+          {
+            "title": "极高的性价比；强大的现货与供应链响应能力；作为大型集团成员，拥有极高的财务与交付安全性。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "风格相对大众化，缺乏极小众、极其昂贵的特色研发（如珍稀纤维等）。"
+          }
+        ],
+        "prices": [
+          "€15 - €42/m"
+        ],
+        "recommended": "稳健的盈利机器。推荐作为品牌利润款式（Volume drivers）的核心面料供应，确保大规模生产的质量零瑕疵。",
+        "clients": "跨国服装零售商、大型航空公司/银行制服项目、以及定位中端的成衣品牌。",
+        "product_type": "研发聚焦于“高产出精纺工艺下的可持续化改造”，利用闭环水系统和太阳能电力降低每米面料的碳足迹。2026/27 研发重点是高支数羊毛与弹性纤维（Elastane）的隐形混纺技术，在保持正装外观的同时，提供极致的穿着舒适度。",
+        "website": ""
+      },
+      {
+        "id": "joshua_ellis",
+        "name": "JOSHUA ELLIS",
+        "stars": 5,
+        "tagline": "约克郡织造皇冠上的明珠，全球顶奢羊绒的“降噪”大师。",
+        "stand": "Ideabiella 20 D12",
+        "pros": [
+          {
+            "title": "近 260 年的独一无二传统；无可匹敌的羊绒后整理工艺；在顶奢圈层中极高的信用背书。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "产量极低，交期以“季度”甚至“年”为单位进行锁仓，常规品牌很难获取其核心配额。"
+          }
+        ],
+        "prices": [
+          "€150 - €450+/m"
+        ],
+        "recommended": "稀缺性经营。建议仅用于品牌的限量款大衣或作为 VIP 服务中的皇冠选择。",
+        "clients": "伦敦 **Savile Row** 所有顶尖裁缝店，以及全球金字塔尖的奢侈品牌（如 **Hermès**, **Ralph Lauren Purple Label** 的特定系列）。",
+        "product_type": "近期专注于“可持续羊绒追溯系统”与“天然起绒工艺的现代化改良”。2026/27 研发重点在于引入“负离子后整理”，在不破坏纤维结构的前提下，进一步提升羊绒面料的抗起球性和色牢度。",
+        "website": ""
+      },
+      {
+        "id": "kynoch_of_scotland",
+        "name": "KYNOCH OF SCOTLAND",
+        "stars": 5,
+        "tagline": "苏格兰边境的色彩魔术师，粗纺界的诗人。",
+        "stand": "Ideabiella 20 D11",
+        "pros": [
+          {
+            "title": "行业领先的花型设计能力；强烈的区域文化辨识度；极其适合做“爆款单品（Statement pieces）”。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "风格过于强烈，可能不适合追求“绝对低调、行政风格”的保守客户。"
+          }
+        ],
+        "prices": [
+          "€40 - €95/m"
+        ],
+        "recommended": "差异化视觉。最适合品牌作为季节性的视觉重心产品，通过极致的色彩搭配吸引进店客流量。",
+        "clients": "伦敦及巴黎的设计师品牌、追求个性化表达的高端 Bespoke 裁缝店、以及寻求差异化竞争的奢侈品男装系列。",
+        "product_type": "研发聚焦于“复合色彩纺纱（Multi-color Spinning）”，通过在单一纱线中混入多达 6 种色彩纤维，实现面料在不同光线下的色彩变幻。2026/27 研发重点是高性能天然防护面料（Teflon-free protection），确保在不破坏环境的前提下提升面料的防泼水性能。",
+        "website": ""
+      },
+      {
+        "id": "lanificio_bottoli",
+        "name": "LANIFICIO BOTTOLI",
+        "stars": 5,
+        "tagline": "意式原生态毛纺的“慢生活”信徒。",
+        "stand": "Ideabiella 20 C12",
+        "pros": [
+          {
+            "title": "全球唯一的无染色原色毛纺技术心智占领；极其独特的、具有颗粒感的“粗糙美学”；极高的道德采购标准。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "颜色受限于绵羊的天然品种，由于不使用染料，无法提供艳丽或极其精准的潘通色匹配。"
+          }
+        ],
+        "prices": [
+          "€45 - €85/m"
+        ],
+        "recommended": "贩卖自然的缺陷。Bottoli 帮助品牌在同质化极高的西装市场，通过一种近乎原始的高级质感脱颖而出。",
+        "clients": "Etro, Ralph Lauren, Brunello Cucinelli (合作研发), 日本高端精品买手店品牌。",
+        "product_type": "生态纺织的“寻根者”，首创了利用不同产区意大利国产原毛混色创造出渐变灰调的技术。近期研发致力于“植物性闭环后整理”，使用天然油脂取代化学助剂。",
+        "website": ""
+      },
+      {
+        "id": "lanificio_breschi",
+        "name": "LANIFICIO BRESCHI",
+        "stars": 5,
+        "tagline": "普拉托产区的奢侈羊绒之光。",
+        "stand": "Ideabiella 20 C11",
+        "pros": [
+          {
+            "title": "全球顶尖的羊绒染整技术；在处理极高克重珍稀纤维领域的统治地位；家族经营确保的绝密研发配方。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "价格极度高昂且产能有限，交付周期极长，仅适合极少数顶奢品牌。"
+          }
+        ],
+        "prices": [
+          "€150 - €550/m+"
+        ],
+        "recommended": "巩固品牌的神性。使用 Breschi 的大衣面料，能让客户在触摸的一秒钟内认同品牌的顶奢定位。",
+        "clients": "Hermès, Loro Piana, Ferragamo, 萨维尔街顶尖高端大衣定制。",
+        "product_type": "珍稀纤维的“深度处理器”，首创了不破坏纤维鳞片的低温慢煮整烫技术。近期研发重点在于“极细支混合 (Hyper-fine Blending)”，即如何将维库尼亚 (Vicuna) 与高支羊绒通过纳米级互锁技术完美融合。",
+        "website": ""
+      },
+      {
+        "id": "lanificio_campore",
+        "name": "LANIFICIO CAMPORE",
+        "stars": 5,
+        "tagline": "比耶拉产区的“古典现代主义者”。",
+        "stand": "Ideabiella 20 E16",
+        "pros": [
+          {
+            "title": "跨文化的审美视角（英式逻辑 + 意式工艺）；在处理中等克重精纺面料方面的极高成熟度；极佳的垂坠感心智。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "相比于 Zegna 或 Loro Piana 的品牌知名度，由于专注定制市场，在大众消费端的溢价能力略逊。"
+          }
+        ],
+        "prices": [
+          "€35 - €82/m"
+        ],
+        "recommended": "提升定制的深度。Campore 让品牌能为专业客户提供既懂英式经典、又不失意式舒适的差异化选择。",
+        "clients": "Canali (Custom), Huntsman, Gieves & Hawkes (合作款), 全球高端 Bespoke 裁缝店。",
+        "product_type": "比耶拉“中坚研发力量”，首创了在 150 支面料中加入微量金属丝以实现“记忆回弹”的技术。近期研发涉及“热动力整理”，使面料能根据外部温度微调其经纬密度的通透性。",
+        "website": ""
+      },
+      {
+        "id": "lanificio_di_pray",
+        "name": "LANIFICIO DI PRAY",
+        "stars": 5,
+        "tagline": "粗纺夹克与“唐尼戈尔 (Donegal)”风格的全球标配。",
+        "stand": "Ideabiella 20 D13",
+        "pros": [
+          {
+            "title": "同行中极具设计感的艺术结粒感花纹；在中端价位段内提供高端纤维混纺的极佳质感；极强的单品出样能力。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "专注在夹克与外套领域，在追求极速、平整、制式化的职业西装领域应用面较窄。"
+          }
+        ],
+        "prices": [
+          "€32 - €75/m"
+        ],
+        "recommended": "创造触觉的惊喜。使用 Di Pray 面料的夹克能够让消费者在触摸的一瞬间感受到手工感和度假感。",
+        "clients": "J.Press, Suitsupply, Curling, 萨维尔街 Bespoke 裁缝店, 全球高端英伦风品牌。",
+        "product_type": "粗纺美学的“减负者”，擅长在 230g-250g 的夏季克重下实现原本只有 400g+ 粗呢才具备的视觉张力。近期研发涉及“超细精纺牦牛毛”，为夏季高端西服提供全新的生物纤维视角。",
+        "website": ""
+      },
+      {
+        "id": "lanificio_di_tollegno",
+        "name": "LANIFICIO DI TOLLEGNO",
+        "stars": 5,
+        "tagline": "针织梭织化与 3D 机能领域的先锋。",
+        "stand": "Ideabiella 20 E21",
+        "pros": [
+          {
+            "title": "全球领先的弹力精纺技术心智；极其稳定的工业化交付；母代纱线背景带来的原材料深度掌控力。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "强烈的科技逻辑有时会遮盖面料的“传统手工艺感”，在极其追求古法的老牌裁缝店心智中份额稍逊。"
+          }
+        ],
+        "prices": [
+          "€25 - €65/m"
+        ],
+        "recommended": "让西装像卫衣一样好穿。Tollegno 帮助品牌解决商务服饰对人体束缚的痛点，用数据化的舒适感说服理性的中产客户。",
+        "clients": "Canali, Corneliani, Hugo Boss, Suitsupply, 以及高端机能商务品牌。",
+        "product_type": "高性能羊毛的“工程学中心”，专注于多组分物理弹力与极致回弹性能。近期研发致力于“混合场景 (Hybrid Scenes)”，即开发出一款能从办公室直接过度到高尔夫球场的高级跨界羊毛面料。",
+        "website": ""
+      },
+      {
+        "id": "lanificio_ferla",
+        "name": "LANIFICIO FERLA",
+        "stars": 5,
+        "tagline": "全球“小羊驼 (Baby Alpaca)”面料的绝对统治者。",
+        "stand": "Ideabiella 20 E07",
+        "pros": [
+          {
+            "title": "原材料源头的垄断级控制权；无可替代的艺术纹理（Bouclé/Donegal-style alpaca）；过百年的制样家族史。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "其纤维特性更偏向于丰盈的质感，在对于需要极端平整、传统深灰色精纺西装的需求中应用场景较窄。"
+          }
+        ],
+        "prices": [
+          "€55 - €135/m+"
+        ],
+        "recommended": "贩卖触觉的护城河。Ferla 让品牌的产品在琳琅满目的货架上，通过让客户手摸的一瞬间，就产生这很贵、很不一样的心理定论。",
+        "clients": "Suitsupply, 奢侈时装屋 (Coat/Jacket lines), 全球高端精品定制店。",
+        "product_type": "全球罕见纤维的“驯服者”，首创了将粗燥的羊驼毛转化为丝绸般光滑的纺织技术。近期研发重点在于“多维反射纤维”，通过改变纱线的横截面，使浅色夏季面料在自然光下展现出如珍珠般的散射效果。",
+        "website": ""
+      },
+      {
+        "id": "lanificio_fratelli_bacci",
+        "name": "LANIFICIO FRATELLI BACCI",
+        "stars": 5,
+        "tagline": "普拉托产区的奢华大衣面料守望者。",
+        "stand": "Ideabiella 20 B13",
+        "pros": [
+          {
+            "title": "百年历史沉淀的独特整理秘方；普拉托产区与佛罗伦萨设计审美的完美融合；极强的定制化开发灵活性。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "相比于比耶拉巨头，其大规模生产的工业边际效应稍弱，更适合追求“匠心”叙事的品牌。"
+          }
+        ],
+        "prices": [
+          "€35 - €110/m+"
+        ],
+        "recommended": "赋予大衣以灵魂。Bacci 的面料能让一件普通设计的衣服，在穿上身的一瞬间展现出昂贵的物理量感。",
+        "clients": "全球知名的成衣制造商，以及追求意产高标准的大衣时装品牌。",
+        "product_type": "普拉托“技术与艺术”的平衡者，首创了低温循环梳理工艺，极大保护了珍稀纤维的原始光泽。近期研发重点在于“多维结构大衣呢”，在不增加克重的情况下实现翻倍的防风指数。",
+        "website": ""
+      },
+      {
+        "id": "lanificio_moessmer",
+        "name": "LANIFICIO MOESSMER",
+        "stars": 5,
+        "tagline": "阿尔卑斯山脉的“奢华之冠”。",
+        "stand": "Ideabiella 20 E14",
+        "pros": [
+          {
+            "title": "全球大衣面料的心智天花板；与顶奢集团的高频联名开发经验；无法被工业化复制的传统煮呢秘方。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "极高的单价与较长的手工处理周期，使其注定只能服务于品牌的塔尖系列，不适合大规模商业化复刻。"
+          }
+        ],
+        "prices": [
+          "€65 - €350/m+ (极致精纺及羊绒系列更贵)"
+        ],
+        "recommended": "锚定奢侈品身位。引入 Moessmer 面料，相当于获取了一张进入全球主流顶奢社交圈层的通行证。",
+        "clients": "Prada, Louis Vuitton, Dior, Hermès, Chanel, Brunello Cucinelli。",
+        "product_type": "高海拔毛纺的“艺术博物馆”，首创了将消防级别阻燃性能与奢华罗登面料融合的技术。近期研发涉及“气孔隔热纤维”，利用阿尔卑斯原生羊毛的物理特性，实现极寒与温暖间的动态体温平衡。",
+        "website": ""
+      },
+      {
+        "id": "lanificio_raphael",
+        "name": "LANIFICIO RAPHAEL",
+        "stars": 5,
+        "tagline": "意式时尚混纺的创意加速器。",
+        "stand": "Ideabiella 20 D16",
+        "pros": [
+          {
+            "title": "无与伦比的色彩感知力；对多种天然纤维混和工艺的熟练运用；极强的商业灵活性。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "定位偏向休闲与设计。在该领域极其稳固，但在需要极高克重、制式化、沉稳行政风格的市场中心智稍显轻盈。"
+          }
+        ],
+        "prices": [
+          "€22 - €55/m"
+        ],
+        "recommended": "打破陈规。Raphael 帮助品牌在保守的西装领域通过质感和色彩的细微改变，赢得年轻精英阶层的青睐。",
+        "clients": "欧洲及北美的主要设计师精品店品牌，以及寻求突破传统西装色调的高端成衣商。",
+        "product_type": "意式研发的“变色龙”，擅长利用不同纤维对染料吸收率的差异创造出天然的“杂色感 (Mélange)”。近期研发聚焦于“生物基功能助剂”，提升天然纤维的耐光色牢度。",
+        "website": ""
+      },
+      {
+        "id": "lanificio_rogna",
+        "name": "LANIFICIO ROGNA",
+        "stars": 5,
+        "tagline": "比耶拉精纺羊毛的“理性实业家”。",
+        "stand": "Ideabiella 20 C19",
+        "pros": [
+          {
+            "title": "比耶拉典型的严谨工业标准；极佳的性价比与品质平衡点；对商务男装色彩库（Navy/Grey/Charcoal）的深度垂直打磨。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "强项在于稳重与功能。在需要极致浮夸设计或实验性肌理的市场，其“逻辑感”面料可能不足以提供视觉冲击力。"
+          }
+        ],
+        "prices": [
+          "€24 - €58/m"
+        ],
+        "recommended": "消除供应链的焦虑。Rogna 帮助品牌主理人睡个好觉——因为它的货期与品质永远在基准线以上。",
+        "clients": "萨维尔街主流定制供应商, 欧洲高端行政服饰品牌, 顶级职业制服项目部。",
+        "product_type": "比耶拉“性能中坚”，首创了微孔内循环纺法，提升面料的自愈性（自去皱能力）。近期研发重点致力于“环境敏感纤维”，能根据穿着环境的湿度变化轻微调整纤维间隙。",
+        "website": ""
+      },
+      {
+        "id": "leomaster",
+        "name": "LEOMASTER",
+        "stars": 5,
+        "tagline": "普拉托产区的创意鬼才。",
+        "stand": "TESS Ideabiella E10",
+        "pros": [
+          {
+            "title": "无人能及的花型与肌理原创性；对不同纤维（如大麻、亚麻、羊驼毛）混纺的极致掌控；极强的出样灵活性。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "品牌调性极其强烈且偏向休闲艺术，在需要绝对严肃、高克重制式正装的需求面前心智匹配度有限。"
+          }
+        ],
+        "prices": [
+          "€22 - €55/m"
+        ],
+        "recommended": "贩卖新鲜感。如果你觉得供应链里的面料太像，那么 Leomaster 就是那个能瞬间点亮货架的视觉变量。",
+        "clients": "Paul Smith, Etro, Boglioli, Barena Venezia, 全球时尚型男装品牌。",
+        "product_type": "普拉托创意引擎，首创了多点定位水洗后整理法，使面料在保持结构稳定的同时展现出自然的“微陈旧感”。近期研发致力于“海洋环保纤维与亚麻”的艺术交织。",
+        "website": ""
+      },
+      {
+        "id": "luigi_ricceri",
+        "name": "LUIGI RICCERI",
+        "stars": 5,
+        "tagline": "全球最美面料的制造者 (PV Award 获得者)。",
+        "stand": "Ideabiella 20 C13",
+        "pros": [
+          {
+            "title": "无与伦比的原创设计库；与顶奢品牌深度绑定的定制开发经验；极致的“意制”手工精度。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "艺术性极高意味着其面料往往带有强烈的 Ricceri 风格，对于追求简约、工业化极简风的品牌来说，设计密度可能过大。"
+          }
+        ],
+        "prices": [
+          "€65 - €320/m+"
+        ],
+        "recommended": "定义品牌的审美天花板。引入 Ricceri 可以瞬间打破品牌原有的供应链沉闷感，为秀场和旗舰店提供最具冲击力的视觉核心。",
+        "clients": "Chanel, Hermès, Prada, Dior, Louis Vuitton, 意大利顶尖高定工坊。",
+        "product_type": "全球纺织装饰艺术的“宗师”，首创了多种复杂浮雕纹理与手工卷边工艺的工业化结合。近期研发重点在于“动态光影纤维”，通过特殊的经纬纱排列，使面料在不同光线角度下展现出多层次的色温变化。",
+        "website": ""
+      },
+      {
+        "id": "lanificio_carlo_barbera",
+        "name": "Lanificio Carlo Barbera",
+        "stars": 5,
+        "tagline": "意式面料艺术的诗意巅峰。",
+        "stand": "Ideabiella 20 D24",
+        "pros": [
+          {
+            "title": "Kiton 顶奢生态系统的全能支持；业界公认的色彩审美（Color pallet）；独特的纱线调质程序。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "极其缓慢的生产周期和极其有限的市场流通量，使得其在大规模商业化扩张中受到物理性限制。"
+          }
+        ],
+        "prices": [
+          "€45 - €220/m+"
+        ],
+        "recommended": "定义‘真正懂得’的人。Carlo Barbera 是品牌向核心鉴赏家展示供应链深度、标榜非工业化审美的最后一粒子弹。",
+        "clients": "Kiton (主供), Brioni, Ermenegildo Zegna, 高端精品店专供。",
+        "product_type": "全球毛纺界的“波尔多酒庄”，坚持使用最传统、最温和的整理工艺。近期研发重点在于“数字化色彩复刻”，利用光谱技术从其 1950 年代的档案库中提取艺术色调，并应用在现代 S150s 纤维上。",
+        "website": ""
+      },
+      {
+        "id": "lanificio_colombo",
+        "name": "Lanificio Colombo",
+        "stars": 5,
+        "tagline": "全球尊贵纤维的终极守护者。",
+        "stand": "TBD",
+        "pros": [
+          {
+            "title": "完全封闭的原材料采集链（内蒙古/秘鲁自营）；独有的“起毛 (Teaseling)”专利工艺；与 LVMH/Kering/Hermès 核心供应链的高度绑定。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "极致奢华的定位使得其在面对入门级奢侈品或泛大众市场时，价格门槛极高。"
+          }
+        ],
+        "prices": [
+          "€85 - €500/m+ (Vicuña 另计)"
+        ],
+        "recommended": "贩卖稀缺性。Colombo 帮助品牌在同质化市场中，通过物理上可感知的触感差异，建立绝对的竞争壁垒。",
+        "clients": "Hermès, Prada, Chanel, Burberry, Brioni, 全球顶奢定制品牌。",
+        "product_type": "尊贵纤维领域的“实验室”，成功实现了将小羊驼绒（Vicuña）精纺至极致轻薄。其专利的天然蛋白涂层技术能让羊绒面料展现出大理石般的光泽。近期关注点是“耐候性羊绒”，针对商务出行开发的拒水抗污涂层。",
+        "website": ""
+      },
+      {
+        "id": "loro_piana",
+        "name": "Loro Piana",
+        "stars": 5,
+        "tagline": "全球奢华面料的皇冠。",
+        "stand": "Ideabiella 20 D19",
+        "pros": [
+          {
+            "title": "原材料源头的绝对控制权；Storm System® 性能专利的行业神话；全球化的高端品牌心智占领。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "极高的价格门槛与高度集中的供应链，使得中小品牌或新兴设计师难以企及。"
+          }
+        ],
+        "prices": [
+          "€100 - €550/m+ (Vicuña 可达 €2,500+)"
+        ],
+        "recommended": "不仅是面料，更是身份证明。使用 Loro Piana 标签能为任何品牌瞬间注入亿万富翁感，是最高效的项目溢价工具。",
+        "clients": "Chanel, Prada, Hermès, 全球顶尖定制商（Savile Row / Milanese tailors）。",
+        "product_type": "全球面料科技的“天花板”，成功将纳米级防水技术（Storm System）与贵重纤维融合。近期研发重点在于“自然色彩学”，通过植物基染色实现色彩的深度与环保共存。",
+        "website": ""
+      },
+      {
+        "id": "magee_weaving",
+        "name": "MAGEE WEAVING",
+        "stars": 5,
+        "tagline": "爱尔兰的一张国家名片，唐尼戈尔花呢（Donegal Tweed）的终极守护者。",
+        "stand": "Ideabiella 20 A40",
+        "pros": [
+          {
+            "title": "全球唯一的 Donegal Tweed 标杆地位；极其独特的色彩美学（杂色点）；强烈的文化与家族企业故事感。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "质感偏厚重和粗糙，对于追求“丝滑轻薄”的夏季正装市场，需要精准推广其混纺系列。"
+          }
+        ],
+        "prices": [
+          "€30 - €85/m"
+        ],
+        "recommended": "情感连接。推荐作为品牌的Signature Winter Collection的核心，或作为主打可持续、大自然主题的特别系列。",
+        "clients": "**J.Crew**, **Cordings (伦敦百年店)**, **Hackett**, 以及追求可持续“慢时尚”的小众设计师品牌。",
+        "product_type": "长期致力于“慢时尚”理念，研发核心在于本土羊毛的利用效率与染色工艺的可持续化。2026/27 研发重点是“轻量化爱尔兰麻羊毛混纺”，使传统的冬装专家也能向夏季生活方式领域强势扩张。",
+        "website": ""
+      },
+      {
+        "id": "maglificio_maggia",
+        "name": "MAGLIFICIO MAGGIA",
+        "stars": 5,
+        "tagline": "全球针织界的“三百年艺术活化石”。",
+        "stand": "Ideabiella 20 E06",
+        "pros": [
+          {
+            "title": "自 1780 年以来的跨世纪研发底蕴；在极细支羊毛与真丝混纺针织领域的专利统治力；与一线顶奢 Maison 的深度联合。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "极高的技术门槛与昂贵的单价，注定了其客户群体极窄，无法进行大规模的中低端市场渗透。"
+          }
+        ],
+        "prices": [
+          "€45 - €185/m+"
+        ],
+        "recommended": "重新定义舒适。Maggia 帮助品牌向客户证明：极致的优雅不需要以紧绷为代价。",
+        "clients": "Prada, Chanel, Hermès (针织系列), Giorgio Armani, 以及全球的高端设计师品牌。",
+        "product_type": "针织界的“高能实验室”，首创了利用气流塔斯兰技术处理真丝以赋予其类毛质感。近期研发重点在于“AI 辅助模拟触感”，在生产前即可通过数字模型精准预判复杂混纺的悬垂性能。",
+        "website": ""
+      },
+      {
+        "id": "mallalieus",
+        "name": "MALLALIEUS",
+        "stars": 5,
+        "tagline": "约克郡粗纺面料的奢华调色师。",
+        "stand": "Ideabiella 20 C20",
+        "pros": [
+          {
+            "title": "在法兰绒和拉绒面料领域极其专业；对色彩的冷暖平衡把握极其精准；提供极具竞争力的中高端平衡。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "主要心智壁垒在秋冬季，春夏轻薄精纺领域的声量相对较小。"
+          }
+        ],
+        "prices": [
+          "€30 - €75/m"
+        ],
+        "recommended": "温暖的主角。最适合作为品牌秋冬系列的核心夹克面料，用色彩和手感征服客户的第一印象。",
+        "clients": "欧洲、美国及日本的高端设计师品牌、追求质感平衡的冬季精品成衣商。",
+        "product_type": "长期锁定“生态可持续羊毛（Eco-wool）”，采用非化学药剂的洗涤与整理方案。2026/27 研发重点是羊毛与环保再生纤维的“柔性复合”，旨在不仅保留粗纺的视觉美感，更能实现可机洗或简易打理的功能性突破。",
+        "website": ""
+      },
+      {
+        "id": "manifattura_emmetex",
+        "name": "MANIFATTURA EMMETEX",
+        "stars": 5,
+        "tagline": "可持续棉毛混纺的高级工匠。",
+        "stand": "Ideabiella 20 C16",
+        "pros": [
+          {
+            "title": "全球领先的环保认证背书库；在机能型天然面料领域的极深技术护城河；极佳的染色表现力。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "品牌定位于高阶休闲与机能感，对于需要极端纤细、超高支数精纺的顶级正装市场，这不是其主战场。"
+          }
+        ],
+        "prices": [
+          "€24 - €58/m"
+        ],
+        "recommended": "赋予产品以道德溢价。引入 Emmetex，品牌不仅是在买面料，更是在买一套完整的、可验证的世界级环保叙事体系。",
+        "clients": "Stone Island, C.P. Company, Moncler, Ralph Lauren, 以及全球主流高端休闲品牌。",
+        "product_type": "机能面料的“绿色工厂”，首创了咖啡残渣染色与全天然疏水涂层。近期研发重点在于“热塑性纤维与天然棉的分子共振”，使成品具备类似塑料的耐磨性，且保留 100% 的循环利用潜力。",
+        "website": ""
+      },
+      {
+        "id": "marielle",
+        "name": "MARIELLE",
+        "stars": 5,
+        "tagline": "佛罗伦萨羊绒针织的艺术殿堂。",
+        "stand": "RATTI Ideabiella A44",
+        "pros": [
+          {
+            "title": "佛罗伦萨纯正的艺术手工基因；与全球最顶级纱线供应商的优先配给协议；Ratti 集团带来的大型分销支持。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "属于小众精品工厂，大批量（Mass production）的产能储备相比通用工厂较显紧凑。"
+          }
+        ],
+        "prices": [
+          "€60 - €180/m (针织面料估算)"
+        ],
+        "recommended": "提升温度的选择。最适合品牌作为顶级礼赠品系列或作为品牌核心羊绒（Core Cashmere）系列的灵魂供应商。",
+        "clients": "**Brunello Cucinelli**, **Loro Piana**, 以及全球最顶尖的私人奢侈品俱乐部。",
+        "product_type": "研发聚焦于“无缝针织工艺”与“纤维的天然共鸣”。2026/27 研发重点是羊绒与可回收丝绸的复合捻度研发，旨在创造出具备“丝滑光泽”且“吸湿排汗”的高性能夏季羊绒。",
+        "website": ""
+      },
+      {
+        "id": "marlane",
+        "name": "MARLANE",
+        "stars": 5,
+        "tagline": "现代都市正装的“全能供应商”。",
+        "stand": "Ideabiella 20 B23",
+        "pros": [
+          {
+            "title": "Marzotto 集团极其强大的物流与成本控制体系；对现代年轻人审美趋势的快速捕捉；极高的生产标准化。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "强项在于规模与效率。在追求极端极致单品（如 24K 金线、钻石粉末）的超限量顶奢市场，这一品牌定位相对理性。"
+          }
+        ],
+        "prices": [
+          "€20 - €45/m"
+        ],
+        "recommended": "利润与质感的最大公约数。Marlane 帮助品牌在保证利润率的同时，能给出非常体面的、充满意式风情的成品表现。",
+        "clients": "Massimo Dutti, Suitsupply, Hugo Boss, DKNY, 以及全球范围内的快节奏成衣连锁。",
+        "product_type": "都市纺织的“快反实验室”，首创了“防污自洁”羊毛后整理工艺，极大地降低了成衣的护理成本。近期研发致力于“环境全抗性精纺”，即在保持高克重手感的同步，实现物理反光热能的功能。",
+        "website": ""
+      },
+      {
+        "id": "marling_&_evans",
+        "name": "MARLING & EVANS",
+        "stars": 5,
+        "tagline": "英伦原生态美学的“最后的守护者”。",
+        "stand": "Ideabiella 20 D28",
+        "pros": [
+          {
+            "title": "全球唯一的“英国无染色羊毛”顶尖心智；无可比拟的重磅纹理表现力；在哈德斯菲尔德（Huddersfield）的深厚工业地位。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "风格极其强烈且具有辨识度，这让它在需要呈现“丝滑、柔弱、精致法式风格”的需求面前，显得过于刚毅。"
+          }
+        ],
+        "prices": [
+          "€28 - €65/m (高重磅大衣呢更贵)"
+        ],
+        "recommended": "贩卖永恒的厚度。引入 Marling & Evans 能让品牌产品具备一种穿越时空的经典感，极其适合打造十年不坏的高端产品心智。",
+        "clients": "Ralph Lauren (Polo/Purple Label), Huntsman (Bespoke series), 萨维尔街裁缝, 以及全球的“Vibe”型复古品牌。",
+        "product_type": "英伦纺织的“考古学家”，致力于恢复 18 世纪的织造结构并用现代精纺技术进行重塑。近期研发重点在于“多维结粒羊毛”，让面料表面呈现出如花岗岩般的原始粗犷美感，且具备优异的抗皱力。",
+        "website": ""
+      },
+      {
+        "id": "menchi_tessuti",
+        "name": "MENCHI TESSUTI",
+        "stars": 5,
+        "tagline": "普拉托产区的奢华大衣面料“隐型冠军”。",
+        "stand": "Ideabiella 20 C18",
+        "pros": [
+          {
+            "title": "全球领先的波纹整理技术（Ripple Finish）；普拉托产区极其灵活的生产调配；极高的价格效能比（Price/Quality Ratio）。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "定位在市场的中坚力量。在大力追求单品“神性”叙事和超高支数定制的市场中，品牌溢价略低于比耶拉的顶奢工坊。"
+          }
+        ],
+        "prices": [
+          "€28 - €85/m+"
+        ],
+        "recommended": "提高高端线的利润率。引入 Menchi，能让品牌在不损失质感的前提下，大幅优化其高端大衣线的产品毛利。",
+        "clients": "Max Mara (Core lines), Burberry, Theory, Reiss, 以及全球主流高级大衣品牌。",
+        "product_type": "普拉托“整理专家”，首创了不含化学助剂的天然蒸汽波纹整理。近期研发致力于“多维动物纤维重构”，将回收羊绒与野生羊毛通过特殊工艺互锁，提升面料的耐磨程度。",
+        "website": ""
+      },
+      {
+        "id": "moon_(abraham_moon_&_sons)",
+        "name": "MOON (Abraham Moon & Sons)",
+        "stars": 5,
+        "tagline": "大不列颠最后一家全能型垂直羊毛工厂，英式乡村风格的活图腾。",
+        "stand": "Ideabiella 20 A38",
+        "pros": [
+          {
+            "title": "完全垂直整合确保了质量的一致性与可追溯性；在全球范围内拥有极高的品牌认知度（Moon Label）；极强的设计多样性。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "风格相对固定，虽在格纹和花呢领域无敌，但在现代运动及功能性材料方向的探索较少。"
+          }
+        ],
+        "prices": [
+          "€25 - €75/m"
+        ],
+        "recommended": "经典背书。非常适合作为品牌的Heritage Line或Autumn Collection的主打标签。",
+        "clients": "**Burberry**, **Paul Smith**, **Ralph Lauren**, **Barbour**, 以及世界各地的顶级室内设计工作室。",
+        "product_type": "近期致力于推广“英国本土羊毛回溯”计划，支持并采用特定产区的可持续羊毛。2026/27 研发重点专注于“轻量化花呢”的织造革新，旨在使厚重感的英伦风格也能在春夏两季活跃。",
+        "website": ""
+      },
+      {
+        "id": "nalya",
+        "name": "NALYA",
+        "stars": 5,
+        "tagline": "女装高定时装的触感魔术师。",
+        "stand": "Ideabiella 20 E12",
+        "pros": [
+          {
+            "title": "在亚麻、大麻等植物纤维处理领域的绝对创意领先；强大的 ESG/可持续生产认证体系；极其精准的流行色感把控。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "部分极薄面料在耐磨性方面可能处于平均水平，需要根据具体的品类进行审慎选择。"
+          }
+        ],
+        "prices": [
+          "€28 - €65/m"
+        ],
+        "recommended": "注入高级感的灵药。最适合用于提升品牌夏季系列的整体审美格调，或是作为可持续高端品类的旗舰面料。",
+        "clients": "**Chloe**, **Stella McCartney**, **Isabel Marant**, **Lemaire**, 以及全球领先的精品女装品牌。",
+        "product_type": "研发聚焦于“生物回圈纤维”与“触感纹理工程”。2026/27 研发重点是通过对麻类纤维的物理弱化处理，实现一种类似“第二层皮肤”的极端柔软触感，旨在消除植物纤维的刺穿感。",
+        "website": ""
+      },
+      {
+        "id": "opera_piemontese",
+        "name": "OPERA PIEMONTESE",
+        "stars": 5,
+        "tagline": "比耶拉传统的“优雅守护者”。",
+        "stand": "Ideabiella 20 B19",
+        "pros": [
+          {
+            "title": "Marzotto 集团极其深厚的传统加工工业背书；比耶拉典型的“中正、稳定、值得信赖”的面料性格。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "强项在于稳重与经典。在需要呈现极端差异化、跨界实验风格的市场需求下，这一品牌显得过于“正襟危坐”。"
+          }
+        ],
+        "prices": [
+          "€24 - €55/m"
+        ],
+        "recommended": "确保不出错的优雅。Opera Piemontese 帮助品牌主理人确立一个稳定的美学及品质基线，是品牌西装的基本法则。",
+        "clients": "经典意式定制工作室, 传统政府及金融业制服采购方, 全球主流精品衬衫及正装商。",
+        "product_type": "比耶拉“古典主义研发中心”，致力于挖掘 19 世纪的羊毛处理工艺并进行现代化、无害化的复原。近期研发焦点在于“感官记忆纤维”，令精纺面料在具备极高手感细腻度的同步，拥有出色的折皱恢复能力。",
+        "website": ""
+      },
+      {
+        "id": "pantex",
+        "name": "PANTEX",
+        "stars": 5,
+        "tagline": "全球“弹性羊毛 (Stretch Wool)”技术的隐形执笔人。",
+        "stand": "Ideabiella 20 C18",
+        "pros": [
+          {
+            "title": "全球顶尖的弹性核心纺专利存量；极高的标准化程度；在应对高强度洗涤与穿着方面的卓越物理性能。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "逻辑高度倾向于功能与效率。在对于追求极致“古法、无弹力、厚重感”的顶级 Bespoke 圈层中，其科技感过强。"
+          }
+        ],
+        "prices": [
+          "€22 - €48/m"
+        ],
+        "recommended": "打破对正装的恐惧。Pantex 帮助品牌告诉客户：你可以穿着西装去追逐梦想，因为这件衣服比你更强韧。",
+        "clients": "Hugo Boss, Theory, Moncler, 以及全球范围内追求“西装运动化”的新锐商务品牌。",
+        "product_type": "比耶拉“动态实验室”，首创了“分子级弹性互锁”工艺，极大改善了高弹力面料易导致服装变形的痛点。近期研发致力于“碳中和生物弹力”，利用植物油脂替代石油基弹性胶。",
+        "website": ""
+      },
+      {
+        "id": "paulo_de_oliveira",
+        "name": "PAULO DE OLIVEIRA",
+        "stars": 5,
+        "tagline": "欧洲工业羊毛领域的“超级战列舰”。",
+        "stand": "Ideabiella 20 B11",
+        "pros": [
+          {
+            "title": "全欧洲最大的产能池带来的无可挑战的价格优势；极高的标准化程度；完全自主的可再生能源生产电力背书。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "强项在于稳健输出与规模效应。由于其强大的工业基因，对于需要极小众、极个性化手工定制花型的灵活性，相对于微型意大利工坊略逊。"
+          }
+        ],
+        "prices": [
+          "€15 - €38/m (大宗订单极具价格杀伤力)"
+        ],
+        "recommended": "稳固商业帝国的低地。Paulo de Oliveira 是品牌在全球范围内扩张市场份额、建立可规模化业务时最强大的供应链盟友。",
+        "clients": "Marks & Spencer, Ted Baker, Suitsupply (部分入门系列), 以及全球主流精品百货自有品牌。",
+        "product_type": "全球纺织工业的“工程中心”，致力于大宗高质羊毛面料的低碳化生产。近期研发致力于“极致抗折断羊毛 (Anti-Breakage Fibers)”，提升面料在流水线高速缝纫下的物理韧性表现。",
+        "website": ""
+      },
+      {
+        "id": "pecci_(divisione_di_pontoglio)",
+        "name": "PECCI (DIVISIONE DI PONTOGLIO)",
+        "stars": 5,
+        "tagline": "Pontoglio 旗下的奢华经典标杆，极致绒感的守护者。",
+        "stand": "PONTOGLIO Ideabiella E11",
+        "pros": [
+          {
+            "title": "在全球顶奢圈层中坚如磐石的声誉；极其严苛的物理强度与色牢度测试；与 Hermès 级别的品牌审美同步。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "更新周期相对较慢，对于追求每季“颠覆式创新”的快时尚或轻奢品牌来说，可能略显稳重。"
+          }
+        ],
+        "prices": [
+          "€42 - €110/m"
+        ],
+        "recommended": "信任的压舱石。最适合品牌作为最高端、最稳健的年度旗舰系列，是建立长期零售口碑的面料保险。",
+        "clients": "**Hermès**, **Ermenegildo Zegna**, **Corneliani**, 以及萨维尔街全球最负盛名的定制店。",
+        "product_type": "研发聚焦于“天然纤维极致化”与“隐形强化技术”。2026/27 研发重点是通过对棉纤维的预分子处理，提升其天然的光反射率，使黑色面料呈现出更深邃、更有层次感的“黑中黑（Blacker than Black）”视觉效果。",
+        "website": ""
+      },
+      {
+        "id": "penteadora",
+        "name": "PENTEADORA",
+        "stars": 5,
+        "tagline": "欧洲机能精纺的“葡萄牙重案组”。",
+        "stand": "Ideabiella 20 B09",
+        "pros": [
+          {
+            "title": "Paulo de Oliveira 集团庞大的全产业链系统支持；在功能性整理（整理）领域的独特专利；极其优异的交货稳定性。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "强项在于功能与强度。在追求那种类似于“云朵般柔软、极其娇贵”的顶奢羊绒市场中心智占位较低。"
+          }
+        ],
+        "prices": [
+          "€18 - €42/m (大宗订单极具价格杀伤力)"
+        ],
+        "recommended": "解决制式服装的痛点。Penteadora 帮助品牌在极高频的使用场景下，依然能维持品牌所需的尊严感与整洁度。",
+        "clients": "跨国航空公司（制服部）, 欧洲各国政府制服项目, 以及注重“极致穿戴性能”的大众高端品牌。",
+        "product_type": "机能纺织的“防御大师”，首创了“纳米级多重抗性”后整理技术。近期研发聚焦于“生物基阻燃纤维”，利用天然蛋白结构实现面料的自灭火性能。",
+        "website": ""
+      },
+      {
+        "id": "pontoglio_1883",
+        "name": "PONTOGLIO 1883",
+        "stars": 5,
+        "tagline": "天鹅绒与灯芯绒艺术的百年守护者。",
+        "stand": "Ideabiella 20 E13",
+        "pros": [
+          {
+            "title": "全产业链 100% 意大利制造的闭环；在绒类织物领域极高的技术壁垒；色彩极其纯正且稳定。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "品牌风格在年轻化（Street-wear influence）方面的尝试相比 Bonotto 稍显克制。"
+          }
+        ],
+        "prices": [
+          "€35 - €85/m"
+        ],
+        "recommended": "宴会装的终点。对于任何想要建立正式社交系列（Semi-formal / Black tie）的品牌，Pontoglio 是必经的一站。",
+        "clients": "**Dolce & Gabbana**, **Gucci**, **Canali**, 以及全球领先的萨维尔街定制商。",
+        "product_type": "研发聚焦于“环保染色”与“多功能混纺绒面”。2026/27 研发重点是利用物理方式实现天鹅绒的天然拒水（Water-repellent）功能，而不改变其丝滑的手感，从而提升服饰的耐穿性。",
+        "website": ""
+      },
+      {
+        "id": "piacenza_1733",
+        "name": "Piacenza 1733",
+        "stars": 5,
+        "tagline": "比耶拉纺织王朝的“活化石”。",
+        "stand": "Ideabiella 20 E15",
+        "pros": [
+          {
+            "title": "近 300 年的品牌历史背书；在小羊驼绒全球分配中的优先地位；极强的产品定制化研发能力（35% 订单为定制开发）。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "品牌风格极度古典，在数字化营销和年轻化叙事方面较 Zegna 或 Loro Piana 略显低调。"
+          }
+        ],
+        "prices": [
+          "€80 - €265/m+"
+        ],
+        "recommended": "贩卖时间的厚度。使用 Piacenza 让品牌不仅在卖面料，更是在卖一份跨越三个世纪的贵族合同。",
+        "clients": "Chanel, Hermès, Dior, Brioni, 萨维尔街顶尖定制店。",
+        "product_type": "稀有动物纤维的“炼金术士”，擅长通过极高水平的后整理工艺展现亚麻与丝绸的骨感。近期研发重点在于“多功能轻量化混纺”，通过纳米技术增强贵重面料的耐穿性与恢复力。",
+        "website": ""
+      },
+      {
+        "id": "quaregna_-_la_tela_di_penelope",
+        "name": "QUAREGNA - LA TELA DI PENELOPE",
+        "stars": 5,
+        "tagline": "全球“本草染 (Natural Dyeing)”领域的艺术灯塔。",
+        "stand": "Ideabiella 20 C15",
+        "pros": [
+          {
+            "title": "全球极少数能将天然染色规模化并保持高端手感的工坊；被 Isaia 集团全资收购带来的稳定顶奢审美基因。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "极高的成本、极慢的生产周期以及天然染料特有的“批次色差（Batch Variation）”，这需要品牌具备极强的专业解释能力。"
+          }
+        ],
+        "prices": [
+          "€60 - €220/m+ (天然染料成本极高)"
+        ],
+        "recommended": "赋予奢侈品以灵魂。Quaregna 帮助品牌进入后奢侈品时代，即不仅是视觉和触觉的享受，更是价值观的高度对齐。",
+        "clients": "Isaia (Core exclusive collections), 拿坡里顶尖萨米裁缝, 以及追求“彻底无污染”的高净值设计师品牌。",
+        "product_type": "纺织界的“炼金术士”，首创了利用天然植物单宁酸替代金属媒染剂的固色技术。近期研发重点在于“芳香缓释织物”，让面料中所含的天然植物气息在穿着过程中随体温缓慢释放。",
+        "website": ""
+      },
+      {
+        "id": "reggiani",
+        "name": "REGGIANI",
+        "stars": 5,
+        "tagline": "全球弹力织物的“弹性专家（Elasticity Expert）”。",
+        "stand": "Ideabiella 20 D14",
+        "pros": [
+          {
+            "title": "在 Shuttle-weave (梭织) 弹力面料领域的技术原点地位；与杜邦/莱卡的深度研发合作背景；高标准的企业 ESG 控制。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "品牌风格偏工业和实用主义，缺乏一些像 Bonotto 式的艺术感。"
+          }
+        ],
+        "prices": [
+          "€32 - €85/m"
+        ],
+        "recommended": "解决穿着痛点。最适合作为品牌的主力商务差旅系列（Travel performance line）或女性职场装的底层支持。",
+        "clients": "**SuitSupply**, **Hugo Boss**, **Theory**, 以及寻求“高性能商务（Tech-Tailoring）”的全球成衣巨头。",
+        "product_type": "长期精研“弹性纤维包裹技术”。2026/27 研发重点是调温技术与 360° 物理弹力的结合，旨在实现一种可以从办公室无缝切换到长途旅行的“全物理环境”平衡面料。",
+        "website": ""
+      },
+      {
+        "id": "reda_1865",
+        "name": "Reda 1865",
+        "stars": 5,
+        "tagline": "可持续奢华面料的行业灯塔。",
+        "stand": "Ideabiella 20 D06",
+        "pros": [
+          {
+            "title": "全球领先的 EPD 与 B Corp 环保背书；“牧场到面料”的完全垂直控制；在机能羊毛（Reda Active/Flexo）领域的绝对领导地位。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "过强的“性价比”与“数字化”标签，可能使其在追求极度小众、艺术化的高奢定制市场面临感官上的竞争。"
+          }
+        ],
+        "prices": [
+          "€20 - €48/m"
+        ],
+        "recommended": "实现无风险的可持续转型。Reda 帮助品牌在不牺牲利润的前提下，构建出最受新一代消费者认可的道德供应链。",
+        "clients": "Suitsupply, Spier & Mackay, 全球 B Corp 认证时尚品牌及现代职场品牌。",
+        "product_type": "全球毛纺工业的可持续“教科书”，首创了全链路区块链追溯技术。Reda Active 专利在提升羊毛机能性（速干、弹性）方面处于行业巅峰。近期重点研发不含合成塑料的可回收弹力面料。",
+        "website": ""
+      },
+      {
+        "id": "savile_clifford",
+        "name": "SAVILE CLIFFORD",
+        "stars": 5,
+        "tagline": "萨维尔街现代魂，英味儿与意式摩登的“混血天才”。",
+        "stand": "Ideabiella 20 A23",
+        "pros": [
+          {
+            "title": "在传统生产线上由于拥有顶流设计师思维，面料设计感极强；极其适合打造“先锋感”的高端正装系列。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "风格过于鲜明，对于追求“完全古典主义”的保守客户，可能需要谨慎引导。"
+          }
+        ],
+        "prices": [
+          "€40 - €120/m"
+        ],
+        "recommended": "品牌格调的推进器。推荐用于品牌的旗舰系列（Flagship series）或社交媒体上的主推视觉款。",
+        "clients": "**Dior Homme**, **Alexander McQueen**, **Paul Smith**, 以及全球追求“Modern Bespoke”风格的小众顶尖店铺。",
+        "product_type": "研发重点在于“特殊纱线组合（Fancy Yarns）”，利用竹纤维、真丝与羊毛的非规则混纺创造出独特的地形感纹路。2026/27 研发焦点是物理降温羊毛（Aero-wool），通过改变织物微孔结构实现远超传统精纺的散热效率。",
+        "website": ""
+      },
+      {
+        "id": "stephen_walters",
+        "name": "STEPHEN WALTERS",
+        "stars": 5,
+        "tagline": "英伦丝绸织造的皇冠守护者，跨越 300 年的奢华定义。",
+        "stand": "Ideabiella 20 B15",
+        "pros": [
+          {
+            "title": "无比深厚的英国皇室背书；在提花工艺与复杂混纺领域的绝对统治力；2025 年荣获英国国王可持续发展奖。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "生产高度复杂，MOQ (起订量) 可能相对较高，且生产周期较长。"
+          }
+        ],
+        "prices": [
+          "€55 - €160/m"
+        ],
+        "recommended": "尊贵感的压舱石。最适合品牌作为晚宴系列（Evening wear）或用于提升品牌历史厚度的旗舰单品。",
+        "clients": "**Savile Row** 顶级定制商, **Tom Ford**, **Alexander McQueen**, **Paul Smith**, 以及全球顶尖的奢侈配饰品牌。",
+        "product_type": "研发聚焦于“可持续丝绸链条”与“现代哑光后处理”。2026/27 研发重点是通过对蚕丝纤维的物理微改造，实现无需化学助剂的天然抗皱表现，并引入了更为轻质的“夏季披肩感（Summer Shalling）”面料。",
+        "website": ""
+      },
+      {
+        "id": "subalpino",
+        "name": "SUBALPINO",
+        "stars": 5,
+        "tagline": "比耶拉“意向美学”与创意纹理的魔术师。",
+        "stand": "Ideabiella 20 C21",
+        "pros": [
+          {
+            "title": "行业公认的创意纹理领导地位；对天然纤维混纺（棉/麻/毛）极其成熟的工艺掌控；在日韩市场极高的品牌辨识度。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "强项在于个性和纹理。在需要极高支数、丝滑感、极其正式的“红毯级”礼服面料市场中，其气质过于活泼。"
+          }
+        ],
+        "prices": [
+          "€24 - €65/m"
+        ],
+        "recommended": "解决产品的同质化。Subalpino 能让品牌的西装在陈列架上一眼被认出来——那是因为它那无可替代的、充满呼吸感的 3D 表面。",
+        "clients": "Paul Smith, Beams Japan (Core collab), 欧洲及日本的先锋定制店, 以及寻求“非典型比耶拉风格”的高端成衣品牌。",
+        "product_type": "纺织界的“结构艺术家”，首创了不对称张力织造法，使泡泡纱结构在多次水洗后仍能维持其高耸的波峰。近期研发聚焦于“可拉伸天然纹理”，在不添加合成纤维的前提下，通过织物结构实现 10% 的物理弹性。",
+        "website": ""
+      },
+      {
+        "id": "solbiati",
+        "name": "Solbiati",
+        "stars": 5,
+        "tagline": "意大利亚麻之王。",
+        "stand": "Ideabiella 20 D21",
+        "pros": [
+          {
+            "title": "Loro Piana 基因背书；深厚的印花档案库；“Festarino”与“Street Lino”等标志性系列的开创者；全链路区块链可追溯。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "强烈的夏季关联性可能限制全季表现；亚麻天然易皱性（虽经优化）仍对成衣保养有要求。"
+          }
+        ],
+        "prices": [
+          "€42 - €110/m+"
+        ],
+        "recommended": "让亚麻具备丝绸般的溢价能力。通过混纺（羊毛/丝绸/羊绒）将亚麻引入行政商务场景，提升品牌客单价。",
+        "clients": "Brioni, Ralph Lauren Purple Label, Chanel, 以及 Savile Row 等全球顶奢定制店。",
+        "product_type": "亚麻领域的创新先驱，成功引入“亚麻绉布 (Linen Crepe)”概念。专注于使用灌溉和化学处理最少的欧洲顶级亚麻。擅长通过精准配比，将亚麻的应用场景从“海滨度假”扩展至“高级商务”。",
+        "website": ""
+      },
+      {
+        "id": "tbm_tessuti",
+        "name": "TBM TESSUTI",
+        "stars": 5,
+        "tagline": "意大利制造的极简美学先行者。",
+        "stand": "THOMAS Ideabiella D08",
+        "pros": [
+          {
+            "title": "极致的意大利制造品质控制；在创新天然纤维混纺领域的技术沉淀；符合现代高端审美的极简设计风格。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "品牌声量在终端消费者中知名度较低，更偏向于幕后的“设计师面料库”。"
+          }
+        ],
+        "prices": [
+          "€25 - €60/m"
+        ],
+        "recommended": "提升现代感。对于想要从传统保守风格转型为现代极简（Contemporary Minimalism）风格的品牌，TBM 是最佳的技术支撑。",
+        "clients": "**Prada**, **Jil Sander**, **Max Mara**, 以及寻求“干净、现代、可持续”心智的设计师品牌。",
+        "product_type": "研发聚焦于“纤维的结构化重组”。2026/27 研发重点是利用循环再造的聚酰胺纤维与超高支数亚麻结合，实现一种具备“物理防晒（UV protection）”且自重极轻的新一代夏季混纺面料。",
+        "website": ""
+      },
+      {
+        "id": "tesj_(divisione_di_pontoglio)",
+        "name": "TESJ (DIVISIONE DI PONTOGLIO)",
+        "stars": 5,
+        "tagline": "Pontoglio 旗下的针织与实验性机理先锋。",
+        "stand": "PONTOGLIO Ideabiella E13",
+        "pros": [
+          {
+            "title": "在奢侈品级针织面料领域的深厚沉淀；极其灵活的织物物理特性定制能力；对运动美学的高级转译。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "针织结构在传统高度结构化（Full-canvas）的西装制作中存在技术挑战，需要配给专属的剪裁工艺。"
+          }
+        ],
+        "prices": [
+          "€30 - €68/m"
+        ],
+        "recommended": "高性能的奢华。最适合用于品牌的Luxury Sport系列或作为提升品牌日常穿着频率（Daily usage）的核心单品。",
+        "clients": "**Moncler**, **Stone Island**, **Lululemon (高端系列)**, **Zegna (高性能线)**, 以及寻求“居家奢华 (Home-luxury)”的设计师品牌。",
+        "product_type": "研发聚焦于“多向拉伸稳定性”与“生物相容性后处理”。2026/27 研发重点是利用新型极性分子涂层，实现在保持针织绒极端拉伸性的同时，面料表面具备“抗起毛球（Anti-pilling）”和“油污隔离”功能。",
+        "website": ""
+      },
+      {
+        "id": "tessilbiella",
+        "name": "TESSILBIELLA",
+        "stars": 5,
+        "tagline": "比耶拉工装与高级时制融合的“材质极简主义者”。",
+        "stand": "Ideabiella 20 D03",
+        "pros": [
+          {
+            "title": "对羊毛物理极限的独特理解；极佳的克重与透气平衡能力；在低饱和度工业色系（Cement/Olive/Deep Navy）上的深厚造诣。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "强项在于力量与机能。在需要展现极高质量感、光泽感、极其阴柔轻薄的女性化丝毛市场中心智占位较低。"
+          }
+        ],
+        "prices": [
+          "€25 - €58/m"
+        ],
+        "recommended": "赋予正装以武器属性。Tessilbiella 协助品牌告诉客户：你的西装不仅可以出席宴会，更可以抵御城市里的风雨。",
+        "clients": "欧洲高端工装风设计师品牌, 追求机能性的定制工作室, 以及全球知名的户外奢华品牌。",
+        "product_type": "比耶拉“坚硬派”研发代表，首创了高密度防钻绒工艺羊毛。近期研发致力于“共晶纤维涂层”，通过在纤维表面纳米级沉积特殊矿物质，实现不依赖涂层的物理自洁与抗菌功效。",
+        "website": ""
+      },
+      {
+        "id": "tessitura_di_crevacuore",
+        "name": "TESSITURA DI CREVACUORE",
+        "stars": 5,
+        "tagline": "意式时尚花呢（Fancy Fabrics）的“创意灵魂图腾”。",
+        "stand": "Ideabiella 20 D22",
+        "pros": [
+          {
+            "title": "全球顶尖的复杂纤维混编技术；对比耶拉与米兰时尚脉搏的实时捕捉能力；极强的艺术原创性。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "强项在于极端的视觉表现。在追求“极其严谨、大体量供应、极低成本”的常规商务正装领域，这一品牌的艺术个性显得过于超前。"
+          }
+        ],
+        "prices": [
+          "€45 - €165/m+"
+        ],
+        "recommended": "定义的时尚高度。Crevacuore 帮助品牌在每年的时装周上建立视觉基调，从而带动整个产品系列的关注度。",
+        "clients": "Chanel (尤其是其配饰与度假系列), Gucci, Alexander McQueen, Tom Ford, 以及全球追求“极致视觉奇观”的设计师品牌。",
+        "product_type": "纺织界的“视觉艺术家”，首创了多维分层经轴织造法，让每一层花纹都具备独立的透视深度。近期研发聚焦于“可编程纤维反光率”，利用数字技术在织造前模拟不同灯光下花呢的色彩变幻。",
+        "website": ""
+      },
+      {
+        "id": "tessuti_di_sondrio",
+        "name": "TESSUTI DI SONDRIO",
+        "stars": 5,
+        "tagline": "全意大利公认的“高级棉织艺术殿堂”。",
+        "stand": "Ideabiella 20 C14",
+        "pros": [
+          {
+            "title": "Sondrio 产区无可替代的软水处理优势；Marzotto 集团的强大全球供应系统支持；在全球高级棉纺领域的顶级品牌溢价。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "强项在于棉、麻等天然短纤维的极致处理。在追求“极高支数精纺羊毛、正式行政正式西装”的市场，品牌属性略偏休闲。"
+          }
+        ],
+        "prices": [
+          "€22 - €65/m+"
+        ],
+        "recommended": "重新定义休闲。Sondrio 帮助品牌向客户证明：即便是一件简单的棉质衬衫或 chinos，也能展现出不输给精纺羊毛的奢华感。",
+        "clients": "Ralph Lauren, Brunello Cucinelli, Massimo Dutti (Limited), 以及全球最顶尖的定制衬衫与休闲裤裁缝。",
+        "product_type": "高级棉纺的“化学实验室”，首创了不含甲醛的低温冷染生物酶技术。近期研发聚焦于“记忆性纤维重组”，利用分子级交联技术提升棉布的自然抗皱性能。",
+        "website": ""
+      },
+      {
+        "id": "texco",
+        "name": "TEXCO",
+        "stars": 5,
+        "tagline": "普拉托时尚创意的“无国界实验室”。",
+        "stand": "Ideabiella 20 E02",
+        "pros": [
+          {
+            "title": "敏锐的全球时尚趋势感知力；普拉托产区极其恐怖的灵活生产弹性；在受限价格带内实现极致视觉表现力的能力。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "强项在于时尚度与周转。对于需要经历几代人传承、极致物理稳定、超高支数定制的 Bespoke 领域，其心智厚度稍淡。"
+          }
+        ],
+        "prices": [
+          "€15 - €38/m"
+        ],
+        "recommended": "加速商业循环。Texco 帮助品牌减少预测错误的风险，通过快速的货期反馈，让品牌始站在流行曲线的最前端。",
+        "clients": "Zara (Studio collections), Massimo Dutti, 以及众多寻求意产质感但极度关注成本效率的时尚快闪品牌。",
+        "product_type": "普拉托“快速原型库”，首创了数字纹样预渲染预览系统，客户在织造前即可通过 VR 确认成品效果。近期研发重点在于“多维聚酯/再生毛改性工艺”，提升环保混纺面料的亲肤细腻度。",
+        "website": ""
+      },
+      {
+        "id": "tg_di_fabio",
+        "name": "TG DI FABIO",
+        "stars": 5,
+        "tagline": "比耶拉“新锐精英”的西装制版引擎。",
+        "stand": "Ideabiella 20 B18",
+        "pros": [
+          {
+            "title": "对 85 后、90 后男性消费者审美极高的捕捉精度；相比于百年老厂，具备更开放的跨界合作心态；极高的交付确定性。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "强项在于当代与效率。在追求那种极其沉重、具备古董感（如：400g+ 重磅英式毛）的传统萨维尔街圈层中心智强度有待提升。"
+          }
+        ],
+        "prices": [
+          "€24 - €52/m"
+        ],
+        "recommended": "提升成衣的‘现代感’。TG di Fabio 帮助品牌摆脱老气标签，用最现代的物理参数重新定义西装的社交价值。",
+        "clients": "Suitsupply, Spier & Mackay, 以及全球主流的中高端西装垂直电商平台。",
+        "product_type": "比耶拉“现代主义实验室”，首创了“多维支数平衡算法”，在保证 S120 手感的同步，实现了 S100 的耐磨性能。近期研发致力于“都市微机能后整理”，在不含氟的前提下实现面料的动态斥水。",
+        "website": ""
+      },
+      {
+        "id": "tessitura_di_novara",
+        "name": "Tessitura di Novara",
+        "stars": 5,
+        "tagline": "全球丝绸面料的极限实验室。",
+        "stand": "Ideabiella 20 C04",
+        "pros": [
+          {
+            "title": "杰尼亚奢侈面料实验平台的背书；在 100% 丝质精纺及丝毛混纺领域的全球垄断地位；极高的艺术复杂性。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "极端高昂的价格和极其有限的产能，使得其几乎完全脱离了主流奢侈品采购，仅服务于金字塔尖客群。"
+          }
+        ],
+        "prices": [
+          "€200 - €480/m+"
+        ],
+        "recommended": "赋予服装以物理上的光环。Novara 提供的面料光泽与肌理是任何机器大规模生产都无法企及的不可复制资产。",
+        "clients": "Zegna Group, 全球顶级定制礼服时装屋, 中东顶奢成衣定制。",
+        "product_type": "全球丝绸面料的终极技术极点，成功开发出“防水透气丝绸”与“高倍抗皱丝绸”。近期研发重点在于使用多尼戈尔（Donegal）结子纱工艺处理丝绸纤维，创造出前所未有的原生态肌理。",
+        "website": ""
+      },
+      {
+        "id": "thomas_mason",
+        "name": "Thomas Mason",
+        "stars": 5,
+        "tagline": "英式衬衫美学的终极图腾。",
+        "stand": "Shirt Avenue 20 A03",
+        "pros": [
+          {
+            "title": "逾两世纪的历史深度与英国皇家认证背书；由 Albini 进行的意式精密后整理；对埃及棉花尖端资源的控制。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "强烈的正装与条纹传统心智，可能在面对追求极端运动机能或完全去正式化的市场时，需要更多的产品线延伸。"
+          }
+        ],
+        "prices": [
+          "€38 - €125/m+ (Giza 45 极高额)"
+        ],
+        "recommended": "贩卖贵族血统。Thomas Mason 标签在衬衣内侧的出现，能直接为产品带来 20-30% 的品牌溢价。",
+        "clients": "Brunello Cucinelli, Ralph Lauren Purple Label, Hermès, Louis Vuitton, 以及 Turnbull & Asser 等历史名店。",
+        "product_type": "全球衬衫布的“黄金标准”，首创了 Silver Poplin 100/2 的后整理体系。近期研发突破在于“零重力 Zephyr”织法，在高支数下实现了羽毛般的透气感，专为热带夏季社交设计。",
+        "website": ""
+      },
+      {
+        "id": "trabaldo_togna_1840",
+        "name": "Trabaldo Togna 1840",
+        "stars": 5,
+        "tagline": "全球天然弹力面料的领航者。",
+        "stand": "Ideabiella 20 C10",
+        "pros": [
+          {
+            "title": "全球领先的机械弹力 (Estrato) 专利；卓越的抗皱表现；对比耶拉传统工艺的现代机能化改造。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "品牌心智高度绑定在“弹力”标签上，在需要表现极度硬挺、传统厚重质感的领域（如经典法兰绒）竞争力稍逊。"
+          }
+        ],
+        "prices": [
+          "€35 - €85/m"
+        ],
+        "recommended": "开启通勤西装的新阶段。Togna 让品牌能够以 100% 天然成分宣称机能西装，避开消费者对化学纤维的心理抵触。",
+        "clients": "Hugo Boss, Giorgio Armani, Ermenegildo Zegna, 高级定制裁缝店。",
+        "product_type": "机械弹力工艺的“实验室”，通过对纱线的特殊加捻而非依靠化学助剂，实现了 Super 120s 至 180s 羊毛的自然拉伸。近期研发重点在于将 Estrato 技术应用于羊绒与真丝混纺，以满足顶奢运动生活方式的需求。",
+        "website": ""
+      },
+      {
+        "id": "vitale_barberis_canonico",
+        "name": "Vitale Barberis Canonico",
+        "stars": 5,
+        "tagline": "全球最古老毛纺厂的工业巅峰。",
+        "stand": "Ideabiella 20 E01",
+        "pros": [
+          {
+            "title": "跨越四个世纪的制样档案；全球最大的高级西装面料交易量带来的规模效应；极高水准的数字化订货系统。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "庞大的生产规模可能在处理极度个性化、非标异形订单时，灵活性略低于微型织造工坊。"
+          }
+        ],
+        "prices": [
+          "€28 - €75/m+"
+        ],
+        "recommended": "解决成衣品牌的确定性。VBC 是品牌在全球扩张中最稳固的质量支点，提供了意式品质的终极标准化输出。",
+        "clients": "Canali, Ralph Lauren, Hackett, Suitsupply, 以及全球数千家定制西装品牌。",
+        "product_type": "比耶拉产区的“研发母舰”，首创了将 21 微米粗羊毛制作成高端精纺面料的机理。近期研发重点在于“多维度抗皱空间”，通过特殊的经纬纱捻度排列，使夏季薄型面料具备如弹簧般的自动回复性能。",
+        "website": ""
+      },
+      {
+        "id": "william_halstead",
+        "name": "WILLIAM HALSTEAD",
+        "stars": 5,
+        "tagline": "全球公认的“马海毛之王 (Master of Mohair)”，约克郡奢华精纺的无冕之冠。",
+        "stand": "Ideabiella 20 D12",
+        "pros": [
+          {
+            "title": "在全球马海毛领域无可置疑的垄断性口碑；由于其特殊的织造方案，面料拥有极强的视觉维度感（Depth of color）；针对中高产阶级的极强辨识度。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "马海毛天性较刚硬，对于追求“丝般柔顺（Buttery Soft）”手感的客户需进行引导，明确其功能性与结构性价值。"
+          }
+        ],
+        "prices": [
+          "€45 - €170/m"
+        ],
+        "recommended": "解决痛点。推荐用于品牌针对差旅精英或夏季高端社交的刚需条线。",
+        "clients": "全球最显赫的时尚屋（Fashion Houses）、萨维尔街裁缝店、以及中东与亚洲地区（特别是日本）的顶级成衣商。",
+        "product_type": "精研“气流染色”与“物理抛光”技术，以提升马海毛面料亲肤感并减少传统刺痒。2026/27 研发重点是通过引入超细羊毛基底，实现马海毛面料的“双向弹性（2-way Stretch）”，使其在结构化的同时具备现代运动的灵活性。",
+        "website": ""
+      },
+      {
+        "id": "zignone",
+        "name": "ZIGNONE",
+        "stars": 5,
+        "tagline": "比耶拉“全生命周期可持续”的西装标杆。",
+        "stand": "Ideabiella 20 E09",
+        "pros": [
+          {
+            "title": "全球领先的环保生产技术与认证完整度；在轻量化机能精纺领域的极其稳固的技术壁垒；极高频的市场响应速度。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "强项在于创新与环保。在对于追求极致“复古大重磅、绝对传统织造、厚重年代感”的小众定制圈层中心智占位相对现代。"
+          }
+        ],
+        "prices": [
+          "€25 - €60/m"
+        ],
+        "recommended": "赋予品牌道德溢价。Zignone 协助品牌回应现代奢侈品消费者最核心的焦虑：这件华服是否让地球变得更糟？",
+        "clients": "Giorgio Armani, Canali, Hugo Boss, 以及寻求“环境友好型奢侈品”叙事的高端垂直品牌。",
+        "product_type": "比耶拉“绿色先驱”，首创了“干式物理后整理 (Dry-Finish)”技术，大幅降低了生产过程中的耗水量。近期研发重点致力于“矿物源自愈纤维”，利用天然矿物粉末改性羊毛，使其具备永久性的抗皱与温控性能。",
+        "website": ""
+      }
+    ]
+  },
+  "SHI": {
+    "name": "Shirt Avenue",
+    "brands": [
+      {
+        "id": "albiate_1830",
+        "name": "ALBIATE 1830",
+        "stars": 5,
+        "tagline": "全球休闲衬衫与丹宁面料的“摇滚巨星”。",
+        "stand": "Shirt Avenue 20 A01",
+        "pros": [
+          {
+            "title": "在奢侈品级丹宁和提花领域的技术领先；Albini 集团背景支撑的稳定供应；极其前卫且具有视觉冲击力的设计水平。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "风格相对固定在“休闲/叛逆”，不适合正式的商务或萨维尔街式的硬核定制。"
+          }
+        ],
+        "prices": [
+          "€12 - €32/m"
+        ],
+        "recommended": "注入生命力。最适合用于品牌的周末休闲线（Weekend line）或设计师胶囊系列，能显著提升产品的辨识度。",
+        "clients": "**Diesel Black Gold**, **Off-White**, **Etro**, **Polo Ralph Lauren**, 以及全球领先的设计师潮流品牌。",
+        "product_type": "研发聚焦于“无水染色”与“多功能天然纤维”。2026/27 研发重点是利用大麻纤维与再生棉的最新比例混纺，实现一种自带“做旧质感”且具备天然抑菌（Anti-bacterial）功能的重磅休闲面料。",
+        "website": ""
+      },
+      {
+        "id": "albini_1876",
+        "name": "ALBINI 1876",
+        "stars": 5,
+        "tagline": "全球衬衫面料的“巨轮”，多维度创新的代名词。",
+        "stand": "Shirt Avenue 20 A03",
+        "pros": [
+          {
+            "title": "全球最完整的衬衫供应链整合能力；顶级可持续认证体系；极其强大的现货（Albini Express）支持及灵活。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "品牌涵盖范围太广，对于追求极致“小众/窄众感”的项目，可能需要通过其子品牌（如 Thomas Mason）来实现差异化。"
+          }
+        ],
+        "prices": [
+          "€18 - €50/m+"
+        ],
+        "recommended": "全能的伙伴。最适合作为品牌衬衫系列的主力供应商，能为品牌提供从入门级到旗舰级的全线面料支撑。",
+        "clients": "**Hugo Boss**, **Ermenegildo Zegna**, **Canali**, **Ralph Lauren**, 并广泛涵盖全球中高端成衣市场。",
+        "product_type": "研发聚焦于“生物再生纤维”与“高性能无铁整理（Non-iron）”。2026/27 研发重点是通过改良的分子链排列技术，实现不需要化学助剂的天然抗皱功能，并大力推进“再生大麻混纺”在高端衬衫中的应用。",
+        "website": ""
+      },
+      {
+        "id": "alumo",
+        "name": "ALUMO",
+        "stars": 5,
+        "tagline": "全球衬衫面料的“劳斯莱斯”，瑞士精工的巅峰。",
+        "stand": "Shirt Avenue 20 A04",
+        "pros": [
+          {
+            "title": "全球最领先的超高支数纱线管理能力；“Swiss Made”标签带来的极致信任背书；极其耐穿的洗涤回弹性。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "价格极其昂贵，交期可能较长，对库存周转率有较高要求的品牌存在挑战。"
+          }
+        ],
+        "prices": [
+          "€40 - €125/m+"
+        ],
+        "recommended": "绝对的身份象征。在品牌的高端支线中使用 Alumo，是向客户证明我们只选最好的最直接证据。",
+        "clients": "**Hermès**, **Charvet**, **Stefano Ricci**, **Huntsman**, 全球顶尖定制衬衫商。",
+        "product_type": "研发聚焦于“微纳米整理”与“极速吸湿技术”。2026/27 研发重点是通过对海岛棉（Sea Island）纤维结构的纳米级重组，实现在保持 200 支以上手感的同时，具备极速快干功能，直面夏季高湿热气候。",
+        "website": ""
+      },
+      {
+        "id": "andreu_group_(including_manufacturas_andreu)",
+        "name": "ANDREU GROUP (including Manufacturas Andreu)",
+        "stars": 5,
+        "tagline": "地中海衬衫与配饰美学的整体方案解决者。",
+        "stand": "Shirt Avenue 20 A19",
+        "pros": [
+          {
+            "title": "跨品类的协同设计能力；极其深厚的 Inditex 级大型品牌服务经验；地中海风格的明亮色彩体系。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "作为“跨品类专家”，其在单一、硬核、超高支数（200s+）专业商务面料的垂直研发深度上，略逊于 Sictess 等纯面料巨头。"
+          }
+        ],
+        "prices": [
+          "€12 - €32/m (面料及设计服务)"
+        ],
+        "recommended": "系列的灵魂。最适合作为品牌季节性度假主题或高端商务配套条线。",
+        "clients": "**Inditex Group (Massimo Dutti)**, **Cortefiel**, 全球中高端商务及轻奢品牌。",
+        "product_type": "研发聚焦于“色彩数字匹配系统”与“混合纤维的高清晰度印染”。2026/27 研发重点是通过研发新型的色彩管理协议，确保同一设计在棉衬衫与真丝领带上达到 99% 以上的视觉一致性，并推进生态纤维在全球配饰中的渗透。",
+        "website": ""
+      },
+      {
+        "id": "andreubarcelona",
+        "name": "ANDREUBARCELONA",
+        "stars": 5,
+        "tagline": "巴塞罗那配饰艺术的守望者，成衣配套解决方案的专家。",
+        "stand": "Shirt Avenue 20 A19",
+        "pros": [
+          {
+            "title": "无与伦比的配饰与面料协同设计能力；深厚的欧洲/亚洲双重供应链管理经验；对地中海色彩美学的独特见解。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "品牌定位更偏向配套方案，在纯粹的“硬核高支数”白衬衫布料研发深度上，与 Albini 等垂直巨头有差异。"
+          }
+        ],
+        "prices": [
+          "€10 - €28/m (面料); 配饰另计"
+        ],
+        "recommended": "系列的灵魂粘合剂。最适合作为品牌季节性礼盒系列（Gift Set）或主题度假系列的深度合作伙伴。",
+        "clients": "**Massimo Dutti**, **Inditex Group brands**, **Cortefiel**, 以及全球中高端商务零售商。",
+        "product_type": "研发聚焦于“可持续纤维的视觉重塑”与“配饰面料的功能化”。2026/27 研发重点是通过回收聚酯与天然真丝的黄金比例混纺，实现一种既具备真丝光泽又拥有化纤耐穿性的新型配饰级衬衫面料。",
+        "website": ""
+      },
+      {
+        "id": "brennet",
+        "name": "BRENNET",
+        "stars": 5,
+        "tagline": "德国功能性衬衫面料的“代名词”，技术领先者的理性之选。",
+        "stand": "Shirt Avenue 20 A04",
+        "pros": [
+          {
+            "title": "行业领先的非化学抗皱技术；严谨的德国/瑞士质量保证体系；极佳的功能性与天然纤维手感平衡。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "品牌调性更偏向理性与工程，在感性的时尚感设计与极前卫印花方面相比意大利同行稍显克制。"
+          }
+        ],
+        "prices": [
+          "€14 - €35/m (基于批量与专利技术)"
+        ],
+        "recommended": "长期主义的基石。最适合作为品牌主力常青款（Year-round Basic）的供应商，能极大提升客户的复购率（因为好穿、好理）。",
+        "clients": "**Hugo Boss**, **Joop!**, **Strellson**, 以及全球主要的运动商务（Tech-prep）品牌。",
+        "product_type": "研发聚焦于“全生物基功能助剂”与“零重力感知面料”。2026/27 研发重点是通过改性的回收纤维实现与原生长绒棉完全一致的吸湿排汗效率，并推进“智能温度调节（Temp-control）”技术在 120 支面料上的落地。",
+        "website": ""
+      },
+      {
+        "id": "canclini_1925_(including_blue_1925)",
+        "name": "CANCLINI 1925 (including BLUE 1925)",
+        "stars": 5,
+        "tagline": "意大利衬衫面料的“创意心脏”，水洗与艺术处理的大师。",
+        "stand": "Shirt Avenue 20 A15",
+        "pros": [
+          {
+            "title": "行业领先的创意设计能力；对多材料混纺的极致掌控；极强的全球分销与灵活订单能力。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "相比 Albini 这种超巨头，单纯在“极速大众化（Massive Speed）”方面可能稍显个性化，成本结构也偏向精品。"
+          }
+        ],
+        "prices": [
+          "€15 - €45/m+"
+        ],
+        "recommended": "注入风格。最适合作为品牌的高级时装衬衫系列，或是用于打造具有强烈品牌视觉辨识度的胶囊系列。",
+        "clients": "**Prada**, **Ermenegildo Zegna**, **Giorgio Armani**, **Dolce & Gabbana**, 以及全球领先的设计师品牌。",
+        "product_type": "研发聚焦于“生物基功能化后处理”与“回收混纺机理”。2026/27 研发重点是利用从石榴皮等天然材料中提取的染料实现“抗菌与感官双重优化”的棉麻面料。",
+        "website": ""
+      },
+      {
+        "id": "chargeurs_pcc",
+        "name": "CHARGEURS PCC",
+        "stars": 5,
+        "tagline": "全球时装的“隐形骨骼”，内衬与支撑技术的绝对霸主。",
+        "stand": "Shirt Avenue 20 A02",
+        "pros": [
+          {
+            "title": "全球最领先的内衬研发能力；无可替代的高端奢侈品服务经验；极其强大的全球分销与本地化服务网络。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "作为“隐形”辅料，需要品牌在产品教育中投入更多精力才能让消费者识别其溢价价值。"
+          }
+        ],
+        "prices": [
+          "€1.5 - €15/m+ (视技术含量与环保标准而定)"
+        ],
+        "recommended": "无忧的品质保险。品牌在衬衫领口、袖口和西装核心结构件上统合使用 Chargeurs，是降低售后率（领口变形、起泡）的最有效手段。",
+        "clients": "**Chanel**, **Gucci**, **Hermès**, **Uniqlo**, 以及全球所有需要精密剪裁支持的品牌。",
+        "product_type": "研发聚焦于“纳米级低温粘合技术”与“全路径碳中和材料”。2026/27 研发重点是通过研发新型的天然树脂胶点，实现在更低熨烫温度下的强力粘合，从而保护敏感的夏季高价值面料。",
+        "website": ""
+      },
+      {
+        "id": "city_by_liberty_fabrics",
+        "name": "CITY BY LIBERTY FABRICS",
+        "stars": 5,
+        "tagline": "全球印花面料的“图腾”，色彩革命的实验室。",
+        "stand": "Shirt Avenue 20 A06",
+        "pros": [
+          {
+            "title": "全球最庞大且受法律保护的印花设计资产；Tana Lawn™ 这一标志性面料的极致手感专利；极其强大的品牌溢价能力。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "价格较高，且由于图案辨识度极强，若品牌设计能力不足，容易被解读为“只是用了一块好布”而非品牌原创。"
+          }
+        ],
+        "prices": [
+          "€24 - €55/m+"
+        ],
+        "recommended": "画龙点睛。最适合用于品牌的度假胶囊系列（Resort capsule）、内衬细节（Inner-collar detail）或作为吸引年轻、高消费、审美敏感客群的流量单品。",
+        "clients": "**Loewe**, **Paul Smith**, **Gucci**, **A.P.C.**, 以及全球寻求强烈视觉身份的设计师品牌。",
+        "product_type": "研发聚焦于“数码印花的深度渗透技术”与“可持续真丝替代方案”。2026/27 研发重点是通过特殊的“深度喷墨”工艺，实现在超轻质有机棉上达到双面印花（Double-sided）的视觉效果，彻底解决印花面料由于“白背”带来的廉价感。",
+        "website": ""
+      },
+      {
+        "id": "eugster_&_huber",
+        "name": "EUGSTER & HUBER",
+        "stars": 5,
+        "tagline": "瑞士顶级衬衫面料的“古典捍卫者”。",
+        "stand": "Shirt Avenue 20 A02",
+        "pros": [
+          {
+            "title": "“Made in Switzerland”这一衬衫界的终极背书；在全球礼服衬衫细分领域的绝对领先地位；极其深厚的刺绣与褶皱技术专利储备。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "定位极其窄众且价格昂贵，不适合全品类的主流大规模开发。"
+          }
+        ],
+        "prices": [
+          "€28 - €75/m+"
+        ],
+        "recommended": "卓越的标签。最适合作为品牌的顶级礼服线（Evening Capsule）或作为展示品牌工艺天花板的旗舰款原材料。",
+        "clients": "**Brioni**, **Hermès**, **Stefano Ricci**, **Zilli**, 以及全球公认的萨维尔街与那不勒斯顶级定制商。",
+        "product_type": "研发聚焦于“高透性与高隐私平衡”与“天然抗皱丝光技术”。2026/27 研发重点是通过特殊的“气体烧毛”与“液氨整理”组合，实现薄如纸张却能提供极致物理强度的超轻质棉织物，并提升其在汗湿后的排湿效率。",
+        "website": ""
+      },
+      {
+        "id": "getzner_textil",
+        "name": "GETZNER TEXTIL",
+        "stars": 5,
+        "tagline": "奥地利纺织工业的基石，高科技衬衫面料与全球大马士革（Damask）权的掌控者。",
+        "stand": "Shirt Avenue 20 A30",
+        "pros": [
+          {
+            "title": "近乎苛刻的奥地利工程质量控制；在“功能性衬衫面料”领域的专利储备；对非洲与欧洲市场的多极驱动能力。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "品牌风格更偏向实用主义与精英商务，在追求极其感性、艺术化的“意式风情”方面可能略显理性。"
+          }
+        ],
+        "prices": [
+          "€15 - €40/m (基于批量与特定工艺)"
+        ],
+        "recommended": "品质的保险盒。最适合作为品牌主力商务系列的供应商，是证明品牌产品耐穿、好打理的核心资产。",
+        "clients": "**Hugo Boss**, **Olymp**, **Walbusch**, **Brioni**, 以及全球领先的职业装/制服集团。",
+        "product_type": "研发聚焦于“全生物降解功能纤维”与“纳米级温控整理”。2026/27 研发重点是通过对纤维表面的微结构改造，实现一种无需化学涂层的“天然防泼水（PFC-free Hydrophobic）”性能。",
+        "website": ""
+      },
+      {
+        "id": "hausammann_moos_1811",
+        "name": "HAUSAMMANN MOOS 1811",
+        "stars": 5,
+        "tagline": "瑞士衬衫面料的“精密雕刻师”，技术与传统的双重巅峰。",
+        "stand": "Shirt Avenue 20 A17",
+        "pros": [
+          {
+            "title": "跨越两世纪的瑞士精工背书；在夏季极轻质面料领域无可撼动的地位；背靠 Canclini 集团带来的强大分销与艺术支撑。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "品牌风格偏于理性和克制，对于需要大面积夸张图案设计的系列可能需要结合 Canclini 其它支线进行补充。"
+          }
+        ],
+        "prices": [
+          "€25 - €65/m+"
+        ],
+        "recommended": "定义夏季。最适合作为品牌最高端的热带商务（Tropical Business）系列或作为女性透气丝滑衬衫条线的核心支撑。",
+        "clients": "**Hermès**, **Etro**, **Paul Smith**, 全球顶级萨维尔街定制店, 以及寻求“纯净瑞士质感”的设计师品牌。",
+        "product_type": "研发聚焦于“高透气物理阻隔”与“生态友好型纸感整理”。2026/27 研发重点是通过改性棉纤维实现天然的“速干与平衡（Dry & Balance）”，确保面料在汗湿状态下依然保持绝佳的刚性支撑，不贴肤。",
+        "website": ""
+      },
+      {
+        "id": "la_linea",
+        "name": "LA LINEA",
+        "stars": 5,
+        "tagline": "中欧数码印花与面料后整理的“精密引擎”。",
+        "stand": "Shirt Avenue 20 A32",
+        "pros": [
+          {
+            "title": "中欧地理位置带来的物流优势；瑞士级的质量认证体系；极具灵活性的数码印花服务。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "品牌的心智定位更偏向“技术加工与交付”，在追求极致的“意式浪漫主义叙事”方面可能需要品牌方提供更强的设计引导。"
+          }
+        ],
+        "prices": [
+          "€12 - €32/m (视印染复杂程度而定)"
+        ],
+        "recommended": "效率的驱动器。最适合作为品牌季节性印花系列的主力生产商，能平衡品质、速度与成本的三角矛盾。",
+        "clients": "全球知名的成衣品牌、中高端设计师品牌，以及深耕西欧市场的专业衬衫商。",
+        "product_type": "研发聚焦于“环保型深度着色体系”与“抗紫外线非铁整理”。2026/27 研发重点是通过研发新型的天然染料涂层，实现面料在经历 40 次洗涤后仍能保持 95% 以上的色彩鲜艳度，并提升夏季轻薄面料的物理挺括性。",
+        "website": ""
+      },
+      {
+        "id": "libeco",
+        "name": "LIBECO",
+        "stars": 5,
+        "tagline": "全球亚麻面料的“皇冠”，可持续奢华的定义者。",
+        "stand": "Shirt Avenue 20 A08",
+        "pros": [
+          {
+            "title": "全球顶尖的亚麻品牌背书；极致的环境友好型生产体系；极其丰富的现货（Stock-supported）供应能力。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "价格相比东欧或亚洲亚麻昂贵许多，且亚麻易皱的天然属性需要品牌通过设计引导消费者建立正确的审美认知。"
+          }
+        ],
+        "prices": [
+          "€22 - €65/m+"
+        ],
+        "recommended": "定义的权力。在品牌的高端夏季度假系列中使用 Libeco，能立刻确立该系列在行业内的正统性。",
+        "clients": "**Hermès**, **Ralph Lauren**, **Hast Paris**, **Cisco Home**, 以及全球顶尖的奢侈品及高定家居品牌。",
+        "product_type": "研发聚焦于“高支数亚麻的物理柔化”与“闭环水处理技术”。2026/27 研发重点是通过改性酶洗技术，实现在不降低亚麻纤维强度的前提下获得棉质般的细腻，并推进“原色亚麻（Undyed）”在高端成衣中的色彩稳定性。",
+        "website": ""
+      },
+      {
+        "id": "match_point",
+        "name": "MATCH POINT",
+        "stars": 5,
+        "tagline": "意大利衬衫面料界的“灵巧舞者”，铜氨纤维（Cupro）的应用先驱。",
+        "stand": "Shirt Avenue 20 A07",
+        "pros": [
+          {
+            "title": "在铜氨及天丝纤维领域的深厚积淀；极其高效的样衣/样布响应速度；对德国及北欧审美的高度适配。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "相比 Albini 等巨头，在超大规模大货生产的极速补货能力上，更偏向于精品、小众的弹性供应。"
+          }
+        ],
+        "prices": [
+          "€15 - €35/m (视纤维材质与混纺比例而定)"
+        ],
+        "recommended": "打破平庸。最适合用于品牌的年度旗舰休闲款或作为寻求极致肤感的核心产品线支撑。",
+        "clients": "德国一线男装品牌、西欧高端定制店，以及寻求“差异化触感”的设计师品牌。",
+        "product_type": "研发聚焦于“生物基再生纤维的结构增强”与“物理凉感整理”。2026/27 研发重点是通过将废弃棉籽纤维进行分子级重组，实现一种具备天然防晒（SPF 30+）功能的超细衬衫面料，并解决高比例混纺下的易起毛球问题。",
+        "website": ""
+      },
+      {
+        "id": "mileta",
+        "name": "MILETA",
+        "stars": 5,
+        "tagline": "中欧纺织工业的“全能冠军”，技术与成本平衡的艺术大师。",
+        "stand": "Shirt Avenue 20 A18",
+        "pros": [
+          {
+            "title": "全产业链闭环带来的成本优势；极其深厚的技术积淀（如复杂提花与大手帕面料）；强大的西欧销售与服务网络。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "品牌调性更偏向工业实用主义，在追求极致“小众高定感（Boutique feel）”方面需要结合其 Erba Italia 高端产品线。"
+          }
+        ],
+        "prices": [
+          "€10 - €28/m"
+        ],
+        "recommended": "增长的压舱石。最适合作为品牌中坚系列（Corse Series）的主力供应商，能提供极其稳健的利润空间。",
+        "clients": "**SuitSupply**, **Charles Tyrwhitt**, **TM Lewin**, 以及广泛的西欧成衣品牌。",
+        "product_type": "研发聚焦于“高性能易打理（Easy-care）”与“特种高精密提花”。2026/27 研发重点是利用新型环保浆料提升高支数面料的洗涤复原力，并大力推进具有“微纹理（Micro-texture）”的素色肌理面料开发。",
+        "website": ""
+      },
+      {
+        "id": "monti_group_(tessitura_monti)",
+        "name": "MONTI GROUP (Tessitura Monti)",
+        "stars": 5,
+        "tagline": "全球高端衬衫面料的工业巨头，意大利品质的规模化基座。",
+        "stand": "Shirt Avenue 20 A21",
+        "pros": [
+          {
+            "title": "全球最领先的大规模高支数面料生产控制能力；极佳的 Giza/Supima 资源整合背书；极其成熟的国际化服务团队。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "品牌风格偏向“最大公约数”的精英商务，在极前卫、窄众的“设计师实验感”方面可能不如 Canclini 极致。"
+          }
+        ],
+        "prices": [
+          "€12 - €32/m"
+        ],
+        "recommended": "系列的定海神针。最适合作为品牌主力基础款（Essential Line）的稳健供应商，能提供无可挑剔的质保与成本优势。",
+        "clients": "**Brooks Brothers**, **Ralph Lauren (Blue Label)**, **Charles Tyrwhitt**, **TM Lewin**, 以及全球主要的轻奢与商务男装品牌。",
+        "product_type": "研发聚焦于“零碳棉链条”与“智能抗皱后整理”。2026/27 研发重点是高比例的可回收棉与特种麻纤维混纺，旨在通过物理预缩技术消除麻类织品的刺痒感，同时保留其粗犷的夏日质感。",
+        "website": ""
+      },
+      {
+        "id": "sictess",
+        "name": "SICTESS",
+        "stars": 5,
+        "tagline": "意大利奢华衬衫领域的“极致精益者”。",
+        "stand": "Shirt Avenue 20 A21",
+        "pros": [
+          {
+            "title": "在极高支数面料领域无可挑战的稳定性；背靠 Albini 集团的巨大研发深度；高度专注的品牌定位心智。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "品牌声量相对Thomas Mason较小，需要品牌销售人员向顾客进行更深层的“内行”化叙事。"
+          }
+        ],
+        "prices": [
+          "€30 - €85/m+"
+        ],
+        "recommended": "内行的首选。最适合作为品牌的高级行政系列（Executive collection）或作为针对 VVIP 客户的专属面料库。",
+        "clients": "**Zegna (Luxury line)**, **Brioni**, **Dunhill**, 以及全球专注于极简高奢的顶尖男装品牌。",
+        "product_type": "研发聚焦于“高支数纤维的柔韧性维持”与“天然光学反射增强”。2026/27 研发重点是通过特殊的“生物基酶洗”工艺，在不损伤高支数纤维强度的前提下，实现在无助剂状态下的物理持久柔滑。",
+        "website": ""
+      },
+      {
+        "id": "somelos_tecidos",
+        "name": "SOMELOS TECIDOS",
+        "stars": 5,
+        "tagline": "葡萄牙纺织工业的骄傲，全球轻奢衬衫的“机动堡垒”。",
+        "stand": "Shirt Avenue 20 A34",
+        "pros": [
+          {
+            "title": "完全垂直化的生产控制带来的极快样衣响应（Sample Speed）；极高的成本效益；对“美式休闲”与“欧洲工艺”的精准平衡。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "品牌在“超高支数（200/2+）”顶奢礼服衬衫领域的心智占领不如 Alumo 或 Sictess 深。"
+          }
+        ],
+        "prices": [
+          "€12 - €32/m"
+        ],
+        "recommended": "成长的助推器。最适合作为品牌快速扩张期（Scaling phase）的主力供应商，能有效降低库存风险并提升系列的多样性。",
+        "clients": "**Etro**, **Paul Smith**, **J. Crew**, **GANT**, **Hackett**, 以及全球领先的精品男装零售商。",
+        "product_type": "研发聚焦于“无水生产链”与“智能混纺机理”。2026/27 研发重点是利用新型 Tencel™ (天丝) 与有机棉的分子混纺，实现在极轻克重（80g/m²以下）的前提下，具备超越纯棉的物理抗撕裂强度。",
+        "website": ""
+      },
+      {
+        "id": "taiana",
+        "name": "TAIANA",
+        "stars": 5,
+        "tagline": "衬衫面料界的“性能先锋”，弹力与高科技织造的领导者。",
+        "stand": "Shirt Avenue 20 A14",
+        "pros": [
+          {
+            "title": "全球顶尖的弹力面料织造技术；极具前卫感的喷墨印花与提花库；在高性能奢侈品市场的极深根基。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "风格极其现代且具有“技术感”，不适合追求纯粹复古、老派、僵硬质感的传统萨维尔街风格项目。"
+          }
+        ],
+        "prices": [
+          "€18 - €45/m+"
+        ],
+        "recommended": "定义的引领。最适合用于品牌的Tech-Tailoring系列或高性能胶囊系列，能显著提升产品的科技含金量。",
+        "clients": "**Moncler**, **Stone Island**, **Prada (Linea Rossa)**, 以及全球顶尖的轻奢时尚集团。",
+        "product_type": "研发聚焦于“可持续高性能聚合物”与“微胶囊温控打印”。2026/27 研发重点是通过使用生物基聚氨酯（Bio-based PU）替代传统的弹性纤维，实现 100% 可回收的高性能弹力布料，并探索碳足迹透明化的全路径追踪。",
+        "website": ""
+      },
+      {
+        "id": "tcs_srl_(italy)",
+        "name": "TCS Srl (Italy)",
+        "stars": 5,
+        "tagline": "意大利印花工艺的“高级定制实验室”，数字时代织造的魔术师。",
+        "stand": "Shirt Avenue 20 A20",
+        "pros": [
+          {
+            "title": "“Made in Italy”的印花品质背书；对多种复杂纤维（如真丝/棉混纺）极其丰富的印染经验；极高的服务柔性。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "单价成本较高，且对于大规模、低毛利的平庸商业单，其优势无法完全发挥。"
+          }
+        ],
+        "prices": [
+          "€25 - €75/m+ (视底布材质与印染精度而定)"
+        ],
+        "recommended": "视觉溢价的引擎。最适合用于品牌的高端度假线（Resort wear）或作为系列中的艺术联名款（Art collaboration）底座。",
+        "clients": "**Dolce & Gabbana**, **Etro**, **Versace**, 以及全球寻求极致华丽视觉系统的设计师品牌。",
+        "product_type": "研发聚焦于“无水数码印花”与“生态友好型墨水体系”。2026/27 研发重点是通过研发新型的植物提取色素墨水，在不牺牲色彩鲜艳度的前提下，实现全链路的重金属零排放，并提升面料在高日晒环境下的固色率。",
+        "website": ""
+      },
+      {
+        "id": "tekstina",
+        "name": "TEKSTINA",
+        "stars": 5,
+        "tagline": "斯洛文尼亚纺织工业的百年先锋，循环时尚的逻辑领袖。",
+        "stand": "Shirt Avenue 20 A12",
+        "pros": [
+          {
+            "title": "在循环纺织领域的技术先发优势；极其成熟的欧洲/中东分销链路；极具竞争力的价格优势。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "品牌的心智定位更偏向“中高端/大宗可持续”，在追求极致“百年萨维尔街奢华感”方面不如 Alumo 等顶奢工厂。"
+          }
+        ],
+        "prices": [
+          "€9 - €22/m"
+        ],
+        "recommended": "规模化的救赎。最适合作为品牌主力休闲系列或可持续支线的核心面料商，既能保障毛利又能提供完善的环保数据。",
+        "clients": "**Armani Exchange**, **Boggi Milano**, **Hugo Boss (Orange Line)**, 以及全球领先的商业可持续品牌。",
+        "product_type": "研发聚焦于“废弃纺织品分级重塑”与“生物基可降解印料”。2026/27 研发重点是通过化学回收技术提取高纯度纤维素纤维，并将其与有机棉混纺，实现一种在强度上超越原生棉的新型“混合物”。",
+        "website": ""
+      },
+      {
+        "id": "tessitura_attilio_bottinelli",
+        "name": "TESSITURA ATTILIO BOTTINELLI",
+        "stars": 5,
+        "tagline": "科莫纺织区的“艺术守望者”，丝棉混纺印花的巅峰。",
+        "stand": "Shirt Avenue 20 A09",
+        "pros": [
+          {
+            "title": "近百年的科莫印染传统背书；在丝棉混纺领域无可比拟的稳定性；极其昂贵且独特的设计稿资产库。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "价格极其昂贵，起订门槛较高，且面料护理需求（通常需要干洗或轻柔手洗）对手动操作要求较高。"
+          }
+        ],
+        "prices": [
+          "€28 - €85/m+ (视真丝比例与印花精度而定)"
+        ],
+        "recommended": "卓越的稀缺性。最适合用于品牌的最高端、有限量编号的礼服/艺术衬衫线。",
+        "clients": "**Dolce & Gabbana**, **Aubin**, **Gagliardi**, 以及全球寻求“科莫风情”的高端私有品牌。",
+        "product_type": "研发聚焦于“高清晰度纤维直喷技术”与“天然纤维的机理重组”。2026/27 研发重点是通过纳米级渗透，实现在极薄真丝上达到如同织造般的背面显色度，并解决丝棉交织面料在高温高湿环境下的色牢度衰减问题。",
+        "website": ""
+      },
+      {
+        "id": "tessitura_carlo_bassetti",
+        "name": "TESSITURA CARLO BASSETTI",
+        "stars": 5,
+        "tagline": "意大利衬衫产业的“工业支柱”，规模与品质的平衡王者。",
+        "stand": "Shirt Avenue 20 A05",
+        "pros": [
+          {
+            "title": "无比强大的大品牌背书（Armani/Dior 长期合作伙伴）；极其成熟的现货服务能力；在全球范围内极具优势的性价比。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "单纯从“面料的极稀缺性”角度看，它是大宗主流之选，不是为寻找“孤品感”的高定设计师准备的。"
+          }
+        ],
+        "prices": [
+          "€1.5 - €12/m (极致的工业竞争力)"
+        ],
+        "recommended": "盈利的基座。最适合作为品牌主力商务线（Mainline）的基础供应商，能提供无可挑剔的质量稳定性。",
+        "clients": "**Dolce & Gabbana**, **Armani**, **Dior**, **Jacquemus**, **Nike**, **Strellson**, 以及全球几乎所有的一线成衣品牌。",
+        "product_type": "研发聚焦于“高周转材料的物理耐久性”与“数码印染的无水闭环”。2026/27 研发重点是通过改良的分子接枝技术，使基础款府绸面料的洗涤寿命提升 30%，并在大规模生产中全面推广“100% 意大利制造”的可溯源绿色标签。",
+        "website": ""
+      },
+      {
+        "id": "tessitura_grandi_&_rubinelli",
+        "name": "TESSITURA GRANDI & RUBINELLI",
+        "stars": 5,
+        "tagline": "萨维尔街定制的灵魂，顶级长绒棉织造的“圣殿”。",
+        "stand": "Shirt Avenue 20 A17",
+        "pros": [
+          {
+            "title": "全球最权威的长绒棉资源掌控力；背靠 Canclini 集团带来的强大研发协同；萨维尔街定制级别的行业口碑。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "价格门槛极高，对于追求极致规模效应的市场并不具备吸引力，更偏向于针对金字塔尖客群的垂直服务。"
+          }
+        ],
+        "prices": [
+          "€26 - €75/m+ (基于零售及定制行情估算)"
+        ],
+        "recommended": "品牌的灯塔。最适合作为品牌旗舰系列（Signature Series）的原材料，为品牌整体价值感提供强力的物理背书。",
+        "clients": "**Savile Row Bespoke tailors**, 全球知名的顶奢男装品牌, 以及追求定制级品质的“Total Look”先锋品牌。",
+        "product_type": "研发聚焦于“超长纤维的分子链修护”与“生态友好型丝光处理”。2026/27 研发重点是通过液氨整理与特殊的物理张力控制，在不添加任何化学助剂的情况下，实现 140/2 以上超高支数斜纹面料的永久自然光泽与回弹性。",
+        "website": ""
+      },
+      {
+        "id": "texta_by_fasac",
+        "name": "TEXTA BY FASAC",
+        "stars": 5,
+        "tagline": "意大利印花织造的“摩登调色盘”，可持续印染的先锋。",
+        "stand": "Shirt Avenue 20 A11",
+        "pros": [
+          {
+            "title": "完全垂直化的生产控制体系；深厚的环保认证背书（European Flax 成员）；对国际流行趋势的极速响应设计力。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "品牌的心智定位更偏向“时尚与创意”，在追求那种“几代不坏”的极重磅、古典商务白衬衫领域，并非其核心火力区。"
+          }
+        ],
+        "prices": [
+          "€15 - €38/m (视印制精度与环保认证级别而定)"
+        ],
+        "recommended": "系列的视觉爆点。最适合作为品牌季节性印花系列（Prints Capsule）的主力供应商，能有效提升系列的整体溢价感。",
+        "clients": "**Paul Smith**, **Giorgio Armani**, **Etro**, 全球超过 40 个国家的领先设计师品牌。",
+        "product_type": "研发聚焦于“生物基可降解染料”与“三维立体印图技术”。2026/27 研发重点是通过研发新型的植物基触感增强剂，不仅实现色彩的极致环保，更让印花面料在手感上展现出类似“磨砂皮”或“丝滑缎面”的特殊触感。",
+        "website": ""
+      },
+      {
+        "id": "thomas_mason",
+        "name": "THOMAS MASON",
+        "stars": 5,
+        "tagline": "英伦衬衫美学的灵魂，百年绅士风格的物理底座。",
+        "stand": "Shirt Avenue 20 A03",
+        "pros": [
+          {
+            "title": "近 230 年的英伦品牌背书；对埃及顶级长绒棉资源的全球配给权；极其广泛的全球分销渠道。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "风格相对固定在“经典绅士”，在追求极速街头潮流化的尝试中相比 Albiate 稍显保守。"
+          }
+        ],
+        "prices": [
+          "€22 - €75/m+"
+        ],
+        "recommended": "信任的基石。对于想要建立专业商务衬衫条线的品牌，Thomas Mason 标签是瞬间建立客群信任的最强筹码。",
+        "clients": "**Ermenegildo Zegna**, **Giorgio Armani**, **Hilditch & Key**, **Brooks Brothers**, 以及全球绝大多数顶级定制店。",
+        "product_type": "研发聚焦于“可持续可追溯的 Giza 棉链条”与“生理平衡凉感工艺”。2026/27 研发重点是通过特殊的“气体烧毛”处理，使面料在保持 140 支以上手感的同时，显著提高其在炎热环境下的散热效率。",
+        "website": ""
+      },
+      {
+        "id": "vilarinho",
+        "name": "VILARINHO",
+        "stars": 5,
+        "tagline": "葡萄牙纺织工业的“美学匠人”，跨世纪的独立织造力量。",
+        "stand": "Shirt Avenue 20 A10",
+        "pros": [
+          {
+            "title": "近一个世纪的葡萄牙匠心工艺背书；极高的定制灵活性与客户服务意识；行业领先的可持续认证（GOTS/OEKO-TEX）。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "品牌在传统的“极高支数、硬核商务”领域的声量相比意大利顶级工厂略小，更多发力于休闲、创意与可持续市场。"
+          }
+        ],
+        "prices": [
+          "€10 - €25/m (具备极高的欧洲质价比)"
+        ],
+        "recommended": "增长的平衡木。最适合作为品牌想要兼顾欧洲制造美誉度、可持续背书及成本控制时的核心主力供应商。",
+        "clients": "全球知名的精品设计师品牌、寻求“透明供应链”的中高端衬衫商，以及多个欧洲时尚集团的设计研发中心。",
+        "product_type": "研发聚焦于“回收纤维的触感升维”与“零化学添加染色”。2026/27 研发重点是通过使用一种自创的物理后处理流程，让包含 50% 以上回收材料的基础布料展现出长绒棉般的丝滑感，并推进全路径闭环水生产系统的应用。",
+        "website": ""
+      }
+    ]
+  },
+  "MOD": {
+    "name": "Moda In Fabrics",
+    "brands": [
+      {
+        "id": "achille_pinto",
+        "name": "ACHILLE PINTO",
+        "stars": 5,
+        "tagline": "科莫纺织界的“全能巨头”，全球奢侈品牌印花的幕后推手。",
+        "stand": "Moda In Fabrics 12 C21",
+        "pros": [
+          {
+            "title": "巨大的年产规模带来的成本摊薄与研发冗余；极高的奢侈品牌信任背书；旗下自有品牌的市场风向标作用。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "作为一个超大型工业体，在处理极小批量（低于 50 米）的极速定制需求时，其流程灵活性可能略逊于精品实验室型工坊。"
+          }
+        ],
+        "prices": [
+          "€25 - €75/m+ (视工艺复杂及纤维材质而定)"
+        ],
+        "recommended": "绝对的稳定性。最适合作为品牌主推系列（Main Collection）的战略级供应商，提供无可挑剔的品质基准。",
+        "clients": "**Hermès (配饰级合作)**, **LVMH 旗下品牌**, **Pierre-Louis Mascia**, **Franco Ferrari**。",
+        "product_type": "研发聚焦于“无水数码印染（Waterless Digital）”与“生物基墨水系统”。2026/27 研发重点是通过研发分子级渗透技术，实现在厚重真丝斜纹布上的正反两面趋同着色，并大幅削减生产过程中的碳排放与水足迹。",
+        "website": ""
+      },
+      {
+        "id": "albert_guegain_broderies",
+        "name": "ALBERT GUEGAIN BRODERIES",
+        "stars": 5,
+        "tagline": "法国刺绣艺术的“守望者”，高级定制与新娘装的蕾丝之父。",
+        "stand": "Moda In Fabrics 12 E17",
+        "pros": [
+          {
+            "title": "近 70 年的工艺沉淀与档案资产；法式顶级审美的正统地位；在处理复杂混合材质（如亮片/天鹅绒）方面的极高稳定性。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "价格极其昂贵，生产周期（Lead time）通常较长，且对设计师的基础工艺理解力有较高要求。"
+          }
+        ],
+        "prices": [
+          "€45 - €180/m+ (视刺绣密度与辅助材料如金线、亮片而定)"
+        ],
+        "recommended": "溢价的触点。最适合作为品牌胶囊系列或高级定制线的亮点面料 (Key Fabric)。",
+        "clients": "**Chanel (Couture)**, **Dior (Private Collection)**, 以及全球顶尖的高端婚纱设计师品牌。",
+        "product_type": "研发聚焦于“复合材质的三维刺绣”与“生物基透明薄纱”。2026/27 研发重点是通过使用 100% 可回收聚酯生成的超精细薄纱（Tulle），结合无溶剂亮片固着技术，实现即使在高频摩擦下也不脱落且环保的极致视觉效果。",
+        "website": ""
+      },
+      {
+        "id": "arella",
+        "name": "ARELLA",
+        "stars": 5,
+        "tagline": "意式印花界的“全能多面手”，可持续丝棉织造的实干家。",
+        "stand": "Moda In Fabrics 12 C03",
+        "pros": [
+          {
+            "title": "跨越真丝、棉、麻及人造纤维的全品类织造与印制能力；深厚的原创图案设计库；强烈的可持续发展导向。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "相比顶奢印花工坊，其在“极高支数手工丝网印花”的艺术极致度上可能略逊一筹，更偏向于商业实用美学。"
+          }
+        ],
+        "prices": [
+          "€15 - €32/m"
+        ],
+        "recommended": "市场的润滑剂。最适合用于品牌的主力女装条线（Core Line），能提供稳定的利润空间与良好的环保故事。",
+        "clients": "欧洲及北美主流女装成衣品牌、寻找“意式风格”的高街时尚巨头，以及注重环保标识的设计师品牌。",
+        "product_type": "研发聚焦于“生物基可降解面料”与“微型机理提花”。2026/27 研发重点是通过研发新型的天然染料固定技术，减少印花生产过程中对化学助剂的依赖，并提升人造丝混纺织物的抗静电与洗涤复原性能。",
+        "website": ""
+      },
+      {
+        "id": "argomenti_tessili",
+        "name": "ARGOMENTI TESSILI",
+        "stars": 5,
+        "tagline": "博洛尼亚纺织圈的“快反应先锋”，女装快时尚的印花中枢。",
+        "stand": "Moda In Fabrics 12 D22",
+        "pros": [
+          {
+            "title": "无与伦比的市场趋势翻译能力；极其庞大的现货供给系统；对全球供应链物流节奏的精准掌控。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "单一花型的“艺术排他性”较低，除非是深度定制，否则存在在市场上与竞品撞花色的风险。"
+          }
+        ],
+        "prices": [
+          "€8 - €22/m (极致的欧洲质价比)"
+        ],
+        "recommended": "效率的杠杆。最适合用于品牌的快反应系列（Flash Collection）或者是需要快速铺货的基础图案条线。",
+        "clients": "全球中大型女装零售品牌、垂直快时尚电商，以及寻找“平价替代豪华感”的设计师品牌。",
+        "product_type": "研发聚焦于“超细纤维的快速吸色”与“抗菌防霉易理功能”。2026/27 研发重点是通过研发新型的低温固色技术，在缩短印花周期的同时降低 40% 的能源消耗，并提升人造纤维面料在夏季的高排汗适应性。",
+        "website": ""
+      },
+      {
+        "id": "atelier_elle_by_lisa",
+        "name": "ATELIER ELLE by Lisa",
+        "stars": 5,
+        "tagline": "意式可持续设计的“试验田”，手工艺印染与生态创新的融合者。",
+        "stand": "Moda In Fabrics 12 A03",
+        "pros": [
+          {
+            "title": "在 MU 可持续展区的核心站位带来的强力背书；极其独特的有机印染纹理（具备手绘般的自然颗粒感）；对极细纤维处理的生态兼容性。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "作为一个精品工坊，其极大规模生产（10,000 米以上）的边际成本下降空间有限，更适合高单价、小容量的精品系列。"
+          }
+        ],
+        "prices": [
+          "€25 - €60/m (视天然染料复杂程度与稀有纤维比例而定)"
+        ],
+        "recommended": "形象的盾牌。最适合作为品牌Conscious Collection或旗舰胶囊系列的战略原材。",
+        "clients": "**Stella McCartney**, **Chloé**, 以及全球领先的 B-Corp 认证奢侈及独立设计师品牌。",
+        "product_type": "研发聚焦于“微藻类天然墨水系统”与“酵素辅助真丝抛光”。2026/27 研发重点是通过使用从地中海微藻中提取的色素代替矿物燃料染料，实现真正的“全生物闭环”印制，并研发出一种无需化学软化剂即可达到极柔肤感的天然洗水工艺。",
+        "website": ""
+      },
+      {
+        "id": "atelier_marey",
+        "name": "ATELIER MAREY",
+        "stars": 5,
+        "tagline": "法国印花档案的“活化石”，高端女装设计的灵感母站。",
+        "stand": "Moda In Fabrics 12 A07",
+        "pros": [
+          {
+            "title": "庞大的不可再生设计资产库；资深的法式审美洞察力；从设计到成衣生产（Full Package）的完整服务链。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "价格中包含较高的设计溢价，对于纯粹追求“走量、平价”的初级商业品牌，其价值密度可能过高。"
+          }
+        ],
+        "prices": [
+          "€22 - €55/m (视设计版权合作与纤维档次而定)"
+        ],
+        "recommended": "灵魂的构建者。最适合作为品牌季度形象款（Hero Pieces）或者是主打复古故事系列的核心供应商。",
+        "clients": "**Isabel Marant**, **Sandro**, **The Reformation**, 以及顶级法国与美国精品女装品牌。",
+        "product_type": "研发聚焦于“档案图案的数字化重组”与“植物基后处理工艺”。2026/27 研发重点是通过使用人工智能增强的色彩匹配系统，让 50 年前的花稿在新型再生纤维（如 Tencel Luxe）上呈现出更具当代锐度的色彩表现，并保持极高的亲肤度。",
+        "website": ""
+      },
+      {
+        "id": "bedini_flli",
+        "name": "BEDINI FLLI",
+        "stars": 5,
+        "tagline": "意式功能美学的“务实先锋”，涂层与后整理面料的技术权威。",
+        "stand": "Moda In Fabrics 12 C17",
+        "pros": [
+          {
+            "title": "在涂层与复杂整理领域的深厚技术积淀；针对“女性高端机能风”的敏锐市场嗅觉；极高的可持续发展认证水平。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "其主攻方向更偏向于“结构化”的外衣面料，对于寻求极致柔软、贴身垂感的内层内衣级别面料，其产品线可能略显强韧。"
+          }
+        ],
+        "prices": [
+          "€18 - €40/m (视功能性涂层级别而定)"
+        ],
+        "recommended": "定义的保护。最适合作为品牌Luxury Performance系列的核心供应商，提供高科技与高溢价的双向加持。",
+        "clients": "**Moncler**, **Max Mara (The Cube Line)**, **Hernò**, 以及全球寻求“优雅保护（Elegant Protection）”的高级成衣品牌。",
+        "product_type": "研发聚焦于“生物基功能涂层”与“智能反射纤维”。2026/27 研发重点是通过使用大豆/玉米提取的生物树脂替代传统的石油基涂层，实现面料的永久厌水性，并研发出一种能在自然光下产生温润反射效果的“珍珠感物理涂层”。",
+        "website": ""
+      },
+      {
+        "id": "blue_on_blues",
+        "name": "BLUE ON BLUES",
+        "stars": 5,
+        "tagline": "意式轻奢女装的“印花画布”，极简优雅与流动美学的平衡者。",
+        "stand": "THOMAS Ideabiella D08",
+        "pros": [
+          {
+            "title": "极其精准的色彩还原体系（能保持人造丝印花的色牢度与鲜艳度平衡）；庞大的商业化图案库；极具竞争力的交付周期。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "其主攻方向为中高档商业市场，在追求“手工木版印花”等原始极致艺术感的领域，其数字化生产路径可能稍欠“手工温度”。"
+          }
+        ],
+        "prices": [
+          "€12 - €28/m"
+        ],
+        "recommended": "商业的生命线。最适合作为品牌走量主力款（Mainline Success Items）的首选面料，提供极高的转化率保障。",
+        "clients": "**Ganni**, **Pinko**, **Uterqüe**, 以及全球寻找“意式品位”的轻奢成衣巨头。",
+        "product_type": "研发聚焦于“环保型粘胶纤维的光泽控制”与“3D 高清数码渗透技术”。2026/27 研发重点是通过使用新型的回收粘胶（如 EcoVero）与高渗透技术结合，让单面数码印花在不增加克重的前提下，达到双面印花的视觉深度，并显著提升面料在反复洗涤后的手感保持率。",
+        "website": ""
+      },
+      {
+        "id": "boselli_&_c",
+        "name": "BOSELLI & C",
+        "stars": 5,
+        "tagline": "全球高性能合成纤维的“隐形王者”，涤纶艺术的极致定义者。",
+        "stand": "Moda In Fabrics 12 F13",
+        "pros": [
+          {
+            "title": "无与伦比的合成纤维手感处理技术（能将涤纶做出真丝般的肤感）；全产业链闭环带来的极端品质一致性；在抗氯、防晒等细分功能的全球领导地位。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "品牌调性高度绑定“合成/功能纤维”，对于追求天然纯粹感（如 100% 原始长绒棉）的项目，非其主攻领域。"
+          }
+        ],
+        "prices": [
+          "€15 - €35/m (视弹性级别与特殊涂层如抗氯、抗 UV 而定)"
+        ],
+        "recommended": "性能的定义权。最适合作为品牌高端内衣、塑形衣、以及专业级夏日泳装的核心材料商。",
+        "clients": "**La Perla**, **Eres (Chanel Group)**, **Lululemon (Luxury lines)**, 以及全球顶级奥运竞技泳衣及内衣巨头。",
+        "product_type": "研发聚焦于“生物基聚酯的触感改性”与“零水循环染整”。2026/27 研发重点是通过使用生物基来源的二元醇单体合成聚酯，实现 100% 碳中和的“新世代合成纤维”，并在高精密印花中应用“冷转移技术”以节约 80% 的水资源。",
+        "website": ""
+      },
+      {
+        "id": "federico_aspesi",
+        "name": "FEDERICO ASPESI",
+        "stars": 5,
+        "tagline": "意式精纺面料的“细节大师”，高品质精纺与混纺的长期主义者。",
+        "stand": "Moda In Fabrics 12 D15",
+        "pros": [
+          {
+            "title": "极其稳定的产业链交付能力；在高级精纺领域的深厚信任背书；对高对比度素色（Solid colors）极佳的控色力。"
+          }
+        ],
+        "cons": [
+          {
+            "title": "风格相对克制，对于追求夸张印花或戏剧化视觉冲击的项目，其产品线可能显得过于“冷淡”。"
+          }
+        ],
+        "prices": [
+          "€18 - €45/m (视混纺成分与支数而定)"
+        ],
+        "recommended": "品质的压舱石。最适合作为品牌常青款（Carry-over）或者是高级成衣线的基础材料供应商。",
+        "clients": "**Prada**, **Jil Sander**, **The Row**, 以及追求极致裁剪稳定性的高端成衣品牌。",
+        "product_type": "研发聚焦于“环保型物理拉伸技术”与“防泼水天然纤维”。2026/27 研发重点是通过研发新型的无氟（PFC-free）纳米涂层，让精细真丝与羊毛混纺面料具备户外级的防护性能，同时完全保留面料的自然呼吸感。",
+        "website": ""
+      }
+    ]
+  }
+}
