@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Milano Unica 42nd Edition · Exhibition Guide</title>
+    <meta name="description"
+        content="Hand-drawn style exhibition guide for Milano Unica 42nd Edition, Milan 2026. Curated textile brands.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Caveat:wght@400;700&family=Noto+Sans+SC:wght@400;500;700&family=Inter:wght@400;500;600&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="styles/main.css">
+</head>
+
+<body>
+    <!-- 纸张纹理背景 -->
+    <div class="paper-texture"></div>
+
+    <!-- 顶部工具栏 (语言 + 搜索) -->
+    <div class="top-bar">
+        <div class="search-container">
+            <input type="text" id="brandSearch" placeholder="搜索品牌或展位..." data-i18n-placeholder="search-placeholder">
+            <span class="search-icon">🔍</span>
+        </div>
+        <div class="lang-switch">
+            <button class="lang-btn active" data-lang="zh">中文</button>
+            <button class="lang-btn" data-lang="en">EN</button>
+        </div>
+    </div>
+
+    <!-- 标题区 -->
+    <header class="hero">
+        <div class="hero-compass">🧭</div>
+        <h1 class="hero-title">
+            <span class="sketch-underline">Milano Unica 42</span>
+        </h1>
+        <p class="hero-subtitle" data-i18n="subtitle">手绘逛展指南 · Milano 2026</p>
+        <div class="hero-stats">
+            <span class="stat-badge">📍 <span data-i18n="brands-count">加载中...</span></span>
+            <span class="stat-badge">🏷️ <span data-i18n="categories-count">加载中...</span></span>
+            <span class="stat-badge">⭐ <span data-i18n="curated">精选推荐</span></span>
+        </div>
+    </header>
+
+    <!-- 快速导航 (Milano Unica 风格) -->
+    <nav class="category-nav">
+        <div class="nav-header">
+            <div class="nav-title">🗺️ <span data-i18n="quick-nav">逛展路线导航</span></div>
+            <p class="nav-subtitle" data-i18n="nav-subtitle">按展区快速定位品牌</p>
+        </div>
+        <div class="nav-links" id="navLinks"></div>
+    </nav>
+
+    <!-- 品牌展示区 -->
+    <main class="content" id="content">
+        <!-- 动态填充 -->
+    </main>
+
+    <!-- 页脚 -->
+    <footer class="footer">
+        <p>🖊️ Handcrafted with ❤️ for Milano Unica</p>
+        <p class="footer-note" data-i18n="footer-tip">逛展愉快，记得带好舒适的鞋子！</p>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+
+</html>
